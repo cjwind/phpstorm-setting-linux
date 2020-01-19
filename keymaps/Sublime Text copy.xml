@@ -1,4 +1,5 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
