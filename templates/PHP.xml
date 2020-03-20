@@ -19,4 +19,10 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="ast" value="$this-&gt;assertTrue($ACTUAL$);" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
