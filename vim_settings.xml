@@ -89,7 +89,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586486370608">
+      <file name="/Dummy.txt" timestamp="1586487313008">
         <mark key="s" line="0" column="26" />
         <mark key="'" line="0" column="26" />
         <mark key="[" line="0" column="0" />
@@ -110,11 +110,11 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/UserLoyaltyProgramController.php" timestamp="1586338534707">
         <mark key="'" line="93" column="39" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1586486182818">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1586486763140">
         <mark key="[" line="101" column="52" />
-        <mark key="]" line="100" column="54" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="83" column="31" />
+        <mark key="]" line="103" column="56" />
+        <mark key="." line="103" column="55" />
+        <mark key="^" line="103" column="56" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/CreditCardCest.php" timestamp="1586424012072">
         <mark key="'" line="116" column="58" />
@@ -144,21 +144,24 @@
         <mark key="." line="21" column="97" />
         <mark key="^" line="21" column="97" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserEmergencyContactCest.php" timestamp="1586486211787">
-        <mark key="'" line="58" column="16" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="257" column="5" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserEmergencyContactCest.php" timestamp="1586487349871">
+        <mark key="'" line="291" column="0" />
+        <mark key="[" line="294" column="46" />
+        <mark key="]" line="294" column="51" />
+        <mark key="." line="294" column="50" />
+        <mark key="^" line="294" column="51" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" timestamp="1586486266954">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="134" column="59" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" timestamp="1586486853161">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="167" column="61" />
+        <mark key="]" line="162" column="51" />
+        <mark key="^" line="162" column="51" />
+        <mark key="." line="162" column="50" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserEmergencyContactController.php" timestamp="1586485859057">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="75" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserEmergencyContactController.php" timestamp="1586487241997">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="53" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/CreditCard.php" timestamp="1586339555678">
         <mark key="'" line="35" column="0" />
@@ -182,11 +185,11 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/accessControls/AppApiAccessControl.php" timestamp="1586323007190">
         <mark key="'" line="105" column="52" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserCreditCardController.php" timestamp="1586486429549">
-        <mark key="'" line="96" column="16" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserCreditCardController.php" timestamp="1586487271860">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="47" />
+        <mark key="." line="55" column="47" />
         <mark key="^" line="128" column="45" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiStorages/CreditCardStorage.php" timestamp="1586338605993">
@@ -270,45 +273,51 @@
       <jump line="95" column="16" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserCreditCardController.php" />
       <jump line="104" column="70" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" />
       <jump line="109" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" />
+      <jump line="291" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserEmergencyContactCest.php" />
+      <jump line="141" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserEmergencyContactController.php" />
+      <jump line="55" column="36" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserCreditCardController.php" />
+      <jump line="36" column="4" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserCreditCardController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YWNjZXNzQ29udHJvbC0+Z3VhcmRMb2dpblVzZXJSZXNvdXJjZSgkY2FyZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YWNjZXNzQ29udHJvbC0+Z3VhcmRVc2VyU3BlY2lmaWNSZXNvdXJjZSgkdXNlcklkLCAkY2FyZCk7Cg==</text>
+        <text encoding="base64">dXNlIGFwcFxmZWF0dXJlc1x1c2VyXHN0b3JhZ2VzXHlpaUFjdGl2ZVJlY29yZHNcVXNlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YWNjZXNzQ29udHJvbC0+Z3VhcmRMb2dpblVzZXJSZXNvdXJjZSgkY2FyZCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text>Add route of get credit cards in manager</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCSdyZWxhdGlvbnNoaXAnID0+ICdzaXN0ZXInLAoJCQkJJ3Bob25lQ291bnRyeScgPT4gJ1NHJywKCQkJCSdwaG9uZU51bWJlcicgPT4gJzEyMzQ1Njc4OScsCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkY29udGFjdElkID0gMTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>;
+		$</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSduYW1lJyA9PiAnQ0hFTiBXT04nLAo=</text>
+        <text encoding="base64">ZW1lcmdlbmN5LWNvbnRhY3RzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkkY29udGFjdElkID0gMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSdwaG9uZUNvdW50cnknID0+ICdTRycsCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSdyZWxhdGlvbnNoaXAnID0+ICdzaXN0ZXInLAo=</text>
+        <text encoding="base64">CQkkdGhpcy0+YWNjZXNzQ29udHJvbC0+Z3VhcmRMb2dpblVzZXJSZXNvdXJjZSgkY2FyZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkY29udGFjdElkID0gMTsK</text>
+        <text>Add route of get credit cards in manager</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YWNjZXNzQ29udHJvbC0+Z3VhcmRMb2dpblVzZXJSZXNvdXJjZSgkY2FyZCk7Cg==</text>
+        <text encoding="base64">CQkJCSdyZWxhdGlvbnNoaXAnID0+ICdzaXN0ZXInLAoJCQkJJ3Bob25lQ291bnRyeScgPT4gJ1NHJywKCQkJCSdwaG9uZU51bWJlcicgPT4gJzEyMzQ1Njc4OScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>
