@@ -89,7 +89,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586487313008">
+      <file name="/Dummy.txt" timestamp="1586487368812">
         <mark key="s" line="0" column="26" />
         <mark key="'" line="0" column="26" />
         <mark key="[" line="0" column="0" />
@@ -144,11 +144,11 @@
         <mark key="." line="21" column="97" />
         <mark key="^" line="21" column="97" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserEmergencyContactCest.php" timestamp="1586487349871">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserEmergencyContactCest.php" timestamp="1586489307614">
         <mark key="'" line="291" column="0" />
-        <mark key="[" line="294" column="46" />
-        <mark key="]" line="294" column="51" />
-        <mark key="." line="294" column="50" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="." line="317" column="0" />
         <mark key="^" line="294" column="51" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" timestamp="1586486853161">
@@ -282,8 +282,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -292,32 +292,32 @@
         <text encoding="base64">dXNlIGFwcFxmZWF0dXJlc1x1c2VyXHN0b3JhZ2VzXHlpaUFjdGl2ZVJlY29yZHNcVXNlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text>Add route of get credit cards in manager</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text>Add route of get credit cards in manager</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkkY29udGFjdElkID0gMTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>;
 		$</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZW1lcmdlbmN5LWNvbnRhY3RzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkkY29udGFjdElkID0gMTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkkdGhpcy0+YWNjZXNzQ29udHJvbC0+Z3VhcmRMb2dpblVzZXJSZXNvdXJjZSgkY2FyZCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text>Add route of get credit cards in manager</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSdyZWxhdGlvbnNoaXAnID0+ICdzaXN0ZXInLAoJCQkJJ3Bob25lQ291bnRyeScgPT4gJ1NHJywKCQkJCSdwaG9uZU51bWJlcicgPT4gJzEyMzQ1Njc4OScsCg==</text>
+        <text>Add route of get credit cards in manager</text>
       </register>
       <register name=":" type="4">
         <text>21</text>
