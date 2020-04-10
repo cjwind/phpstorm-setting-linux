@@ -107,10 +107,10 @@
         <mark key="'" line="93" column="39" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1586496107527">
-        <mark key="[" line="101" column="52" />
-        <mark key="]" line="103" column="56" />
-        <mark key="." line="103" column="55" />
-        <mark key="^" line="103" column="56" />
+        <mark key="[" line="90" column="52" />
+        <mark key="]" line="92" column="56" />
+        <mark key="." line="92" column="55" />
+        <mark key="^" line="92" column="56" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/CreditCardCest.php" timestamp="1586424012072">
         <mark key="'" line="116" column="58" />
@@ -173,13 +173,6 @@
         <mark key="]" line="88" column="34" />
         <mark key="^" line="88" column="34" />
         <mark key="." line="88" column="33" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" timestamp="1586502695242">
-        <mark key="'" line="76" column="10" />
-        <mark key="[" line="106" column="8" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="114" column="10" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" timestamp="1586339350689">
         <mark key="[" line="813" column="0" />
