@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586921523020">
+      <file name="/Dummy.txt" timestamp="1586924806948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -122,10 +122,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/FlightPolicyCriterionMatcher.php" timestamp="1586924395110">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/FlightPolicyCriterionMatcher.php" timestamp="1586924994092">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/FlightItinerary.php" timestamp="1586921513348">
         <mark key="[" line="51" column="216" />
@@ -164,9 +165,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" timestamp="1586923280380">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="133" column="55" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" timestamp="1586924928806">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="176" column="37" />
+        <mark key="]" line="176" column="37" />
+        <mark key="^" line="163" column="8" />
+        <mark key="." line="176" column="37" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" timestamp="1586502330352">
         <mark key="'" line="75" column="24" />
@@ -286,45 +290,47 @@
       <jump line="16" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="17" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="113" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
+      <jump line="159" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
+      <jump line="161" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NRT</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>NRT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gZ2l2ZW5TZWNvbmRMZWdPcmlnaW5BbmREZXN0aW5hdGlvbigkb3JpZ2luLCAkZGVzdGluYXRpb24pOiB2b2lkIHsKCQkkdGhpcy0+ZmxpZ2h0SXRpbmVyYXJ5U2Vjb25kTGVnT3JpZ2luID0gJG9yaWdpbjsKCQkkdGhpcy0+ZmxpZ2h0SXRpbmVyYXJ5U2Vjb25kTGVnRGVzdGluYXRpb24gPSAkZGVzdGluYXRpb247Cgl9Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0TWF0Y2hDcml0ZXJpb25fUm91dGVNYXRjaGVkX0NvdW50cnkoKSB7CgkJJHRoaXMtPmdpdmVuRmlyc3RMZWdPcmlnaW4oJ1RQRScsICcxJyk7CgkJJHRoaXMtPmdpdmVuRmlyc3RMZWdEZXN0aW5hdGlvbignTlJUJywgJzInKTsKCQkkdGhpcy0+Z2l2ZW5TZWNvbmRMZWdPcmlnaW4oJ05SVCcsICcyJyk7CgkJJHRoaXMtPmdpdmVuU2Vjb25kTGVnRGVzdGluYXRpb24oJ1RQRScsICcxJyk7CgkJJHRoaXMtPmdpdmVuQ3JpdGVyaW9uUm91dGUoJ2NvdW50cnknLCAnMScsICdjb3VudHJ5JywgJzInKTsKCgkJJHRoaXMtPndoZW5NYXRjaENyaXRlcmlvbigpOwoKCQkkdGhpcy0+c2hvdWxkTWF0Y2hlZCgpOwoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0TWF0Y2hDcml0ZXJpb25fUm91dGVOb3RNYXRjaGVkX0NvdW50cnkoKSB7CgkJJHRoaXMtPmdpdmVuRmlyc3RMZWdPcmlnaW4oJ1RQRScsICcxJyk7CgkJJHRoaXMtPmdpdmVuU2Vjb25kTGVnT3JpZ2luKCdOUlQnLCAnMicpOwoJCSR0aGlzLT5naXZlbkNyaXRlcmlvblJvdXRlKCdjb3VudHJ5JywgJzEnLCAnY291bnRyeScsICcyJyk7CgoJCSR0aGlzLT53aGVuTWF0Y2hDcml0ZXJpb24oKTsKCgkJJHRoaXMtPnNob3VsZE5vdE1hdGNoZWQoKTsKCX0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgkJCXJldHVybiAoJGl0aW5lcmFyeS0+Z2V0TGVnT3JpZ2luKDApID09ICRjcml0ZXJpb25bJ29yaWdpbiddWydpZCddICYmCgkJCQkkaXRpbmVyYXJ5LT5nZXRMZWdEZXN0aW5hdGlvbigwKSA9PSAkY3JpdGVyaW9uWydkZXN0aW5hdGlvbiddWydpZCddICYmCgkJCQkkaXRpbmVyYXJ5LT5nZXRMZWdEZXN0aW5hdGlvbigxKSA9PSAkY3JpdGVyaW9uWydvcmlnaW4nXVsnaWQnXSAmJgoJCQkJJGl0aW5lcmFyeS0+Z2V0TGVnT3JpZ2luKDEpID09ICRjcml0ZXJpb25bJ2Rlc3RpbmF0aW9uJ11bJ2lkJ10KCQkJKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZmxpZ2h0SXRpbmVyYXJ5U2Vjb25kTGVnRGVzdGluYXRpb24gPSAkZGVzdGluYXRpb247Cg==</text>
+        <text>Add route of get credit cards in manager</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZmxpZ2h0SXRpbmVyYXJ5U2Vjb25kTGVnT3JpZ2luID0gJG9yaWdpbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZmxpZ2h0SXRpbmVyYXJ5Rmlyc3RMZWdPcmlnaW4gPSBbJ2NvZGUnID0+ICRvcmlnaW5Db2RlLCAnY291bnRyeUlkJyA9PiAkb3JpZ2luQ291bnRyeUlkXTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgkJJHRoaXMtPmdpdmVuRmlyc3RMZWdPcmlnaW4oJ1RQRScsICcxJyk7CgkJJHRoaXMtPmdpdmVuRmlyc3RMZWdEZXN0aW5hdGlvbignTlJUJywgJzInKTsKCQkkdGhpcy0+Z2l2ZW5TZWNvbmRMZWdPcmlnaW4oJ05SVCcsICcyJyk7CgkJJHRoaXMtPmdpdmVuU2Vjb25kTGVnRGVzdGluYXRpb24oJ1RQRScsICcxJyk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZmxpZ2h0SXRpbmVyYXJ5Rmlyc3RMZWdEZXN0aW5hdGlvbiA9IFsnY29kZScgPT4gJGRlc3RpbmF0aW9uQ29kZSwgJ2NvdW50cnlJZCcgPT4gJGRlc3RpbmF0aW9uQ291bnRyeUlkXTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CQkKCQkkdGhpcy0+Z2l2ZW5GaXJzdExlZ09yaWdpbignVFBFJywgJzEnKTsKCQkkdGhpcy0+Z2l2ZW5GaXJzdExlZ0Rlc3RpbmF0aW9uKCdOUlQnLCAnMicpOwoJ</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZmxpZ2h0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgkJCXJldHVybiAoJGl0aW5lcmFyeS0+Z2V0TGVnT3JpZ2luKDApID09ICRjcml0ZXJpb25bJ29yaWdpbiddWydpZCddICYmCgkJCQkkaXRpbmVyYXJ5LT5nZXRMZWdEZXN0aW5hdGlvbigwKSA9PSAkY3JpdGVyaW9uWydkZXN0aW5hdGlvbiddWydpZCddICYmCgkJCQkkaXRpbmVyYXJ5LT5nZXRMZWdEZXN0aW5hdGlvbigxKSA9PSAkY3JpdGVyaW9uWydvcmlnaW4nXVsnaWQnXSAmJgoJCQkJJGl0aW5lcmFyeS0+Z2V0TGVnT3JpZ2luKDEpID09ICRjcml0ZXJpb25bJ2Rlc3RpbmF0aW9uJ11bJ2lkJ10KCQkJKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+ZmxpZ2h0SXRpbmVyYXJ5U2Vjb25kTGVnRGVzdGluYXRpb24gPSAkZGVzdGluYXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
