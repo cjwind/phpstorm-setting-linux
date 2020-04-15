@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586927873517">
+      <file name="/Dummy.txt" timestamp="1586935645986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,18 +141,17 @@
         <mark key="^" line="22" column="53" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/forms/CreditCardUpdateForm.php" timestamp="1586339599067">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="21" column="97" />
-        <mark key="." line="21" column="97" />
-        <mark key="^" line="21" column="97" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserEmergencyContactCest.php" timestamp="1586489307614">
         <mark key="'" line="291" column="0" />
         <mark key="[" line="317" column="0" />
         <mark key="]" line="317" column="0" />
         <mark key="." line="317" column="0" />
         <mark key="^" line="294" column="51" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1586935741263">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" timestamp="1586486853161">
         <mark key="'" line="141" column="0" />
@@ -166,12 +165,17 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" timestamp="1586927752660">
-        <mark key="'" line="191" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" timestamp="1586935753966">
+        <mark key="'" line="187" column="35" />
         <mark key="[" line="220" column="37" />
         <mark key="]" line="220" column="37" />
         <mark key="^" line="216" column="34" />
         <mark key="." line="220" column="37" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/AdvanceBookingRuleTest.php" timestamp="1586935621753">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" timestamp="1586502330352">
         <mark key="'" line="75" column="24" />
@@ -295,45 +299,46 @@
       <jump line="161" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="191" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="13" column="12" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/FlightPolicyCriterionMatcher.php" />
+      <jump line="187" column="35" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>KIX</text>
+        <text>PHPUnit_Framework_TestCase</text>
       </register>
       <register name="-" type="4">
-        <text>KIX</text>
+        <text>PHPUnit_Framework_TestCase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0TWF0Y2hDcml0ZXJpb25fUm91dGVNYXRjaGVkX0FpcnBvcnRBbmRDb3VudHJ5KCkgewoJCSR0aGlzLT5naXZlbkZpcnN0TGVnT3JpZ2luKCdUUEUnLCAnMScpOwoJCSR0aGlzLT5naXZlbkZpcnN0TGVnRGVzdGluYXRpb24oJ05SVCcsICcyJyk7CgkJJHRoaXMtPmdpdmVuU2Vjb25kTGVnT3JpZ2luKCdOUlQnLCAnMicpOwoJCSR0aGlzLT5naXZlblNlY29uZExlZ0Rlc3RpbmF0aW9uKCdUUEUnLCAnMScpOwoJCSR0aGlzLT5naXZlbkNyaXRlcmlvblJvdXRlKCdjb3VudHJ5JywgJzEnLCAnYWlycG9ydCcsICdOUlQnKTsKCQkkdGhpcy0+d2hlbk1hdGNoQ3JpdGVyaW9uKCk7CgkJJHRoaXMtPnNob3VsZE1hdGNoZWQoKTsKCgkJJHRoaXMtPmdpdmVuRmlyc3RMZWdPcmlnaW4oJ1RQRScsICcxJyk7CgkJJHRoaXMtPmdpdmVuRmlyc3RMZWdEZXN0aW5hdGlvbignTlJUJywgJzInKTsKCQkkdGhpcy0+Z2l2ZW5TZWNvbmRMZWdPcmlnaW4oJ05SVCcsICcyJyk7CgkJJHRoaXMtPmdpdmVuU2Vjb25kTGVnRGVzdGluYXRpb24oJ1RQRScsICcxJyk7CgkJJHRoaXMtPmdpdmVuQ3JpdGVyaW9uUm91dGUoJ2FpcnBvcnQnLCAnVFBFJywgJ2NvdW5ydHknLCAnMicpOwoJCSR0aGlzLT53aGVuTWF0Y2hDcml0ZXJpb24oKTsKCQkkdGhpcy0+c2hvdWxkTWF0Y2hlZCgpOwoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkTWF0Y2hlZCgpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkkdGhpcy0+d2hlbk1hdGNoQ3JpdGVyaW9uKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5Dcml0ZXJpb25Sb3V0ZSgnYWlycG9ydCcsICdUUEUnLCAnY291bnJ0eScsICcyJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5TZWNvbmRMZWdEZXN0aW5hdGlvbignVFBFJywgJzEnKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5TZWNvbmRMZWdPcmlnaW4oJ05SVCcsICcyJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5GaXJzdExlZ0Rlc3RpbmF0aW9uKCdOUlQnLCAnMicpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5GaXJzdExlZ09yaWdpbignVFBFJywgJzEnKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0X19jb25zdHJ1Y3QoKSB7CgoJfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkTWF0Y2hlZCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkdGhpcy0+d2hlbk1hdGNoQ3JpdGVyaW9uKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5Dcml0ZXJpb25Sb3V0ZSgnYWlycG9ydCcsICdUUEUnLCAnY291bnJ0eScsICcyJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5TZWNvbmRMZWdEZXN0aW5hdGlvbignVFBFJywgJzEnKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5TZWNvbmRMZWdPcmlnaW4oJ05SVCcsICcyJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5GaXJzdExlZ0Rlc3RpbmF0aW9uKCdOUlQnLCAnMicpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0TWF0Y2hDcml0ZXJpb25fUm91dGVOb3RNYXRjaGVkX0NvdW50cnkoKSB7CgkJJHRoaXMtPmdpdmVuRmlyc3RMZWdPcmlnaW4oJ1RQRScsICcxJyk7CgkJJHRoaXMtPmdpdmVuU2Vjb25kTGVnT3JpZ2luKCdOUlQnLCAnMicpOwoJCSR0aGlzLT5naXZlbkNyaXRlcmlvblJvdXRlKCdjb3VudHJ5JywgJzEnLCAnY291bnRyeScsICcyJyk7CgoJCSR0aGlzLT53aGVuTWF0Y2hDcml0ZXJpb24oKTsKCgkJJHRoaXMtPnNob3VsZE5vdE1hdGNoZWQoKTsKCX0K</text>
+        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5GaXJzdExlZ09yaWdpbignVFBFJywgJzEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
