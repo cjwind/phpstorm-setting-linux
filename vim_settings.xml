@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587012228495">
+      <file name="/Dummy.txt" timestamp="1587012927337">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,8 +137,8 @@
         <mark key="^" line="53" column="124" />
         <mark key="." line="53" column="123" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" timestamp="1587012312428">
-        <mark key="'" line="54" column="12" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" timestamp="1587012941181">
+        <mark key="'" line="57" column="0" />
         <mark key="[" line="62" column="77" />
         <mark key="]" line="62" column="74" />
         <mark key="^" line="62" column="74" />
@@ -151,7 +151,7 @@
         <mark key="." line="317" column="0" />
         <mark key="^" line="294" column="51" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587011930442">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587012340729">
         <mark key="'" line="125" column="0" />
         <mark key="[" line="183" column="0" />
         <mark key="]" line="200" column="31" />
@@ -203,10 +203,11 @@
         <mark key="^" line="69" column="53" />
         <mark key="." line="69" column="52" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRuleResult.php" timestamp="1587012945237">
+        <mark key="'" line="32" column="1" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/tests/unit/flight/forms/TravelReminderSaveFormTest.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/controllers/app/TravelReminderController.php" />
       <jump line="47" column="31" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/flight/forms/TravelReminderQueryForm.php" />
       <jump line="43" column="0" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/admin/member/forms/MemberTravelReminderQueryForm.php" />
       <jump line="18" column="22" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/admin/member/forms/MemberTravelReminderQueryForm.php" />
@@ -305,6 +306,8 @@
       <jump line="140" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
       <jump line="32" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
       <jump line="125" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" />
+      <jump line="32" column="1" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRuleResult.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
