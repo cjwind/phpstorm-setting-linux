@@ -95,8 +95,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1587008284155">
+      <file name="/a.dummy" timestamp="1587009686687">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1586770672383">
         <mark key="[" line="90" column="52" />
@@ -134,12 +137,12 @@
         <mark key="^" line="53" column="124" />
         <mark key="." line="53" column="123" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" timestamp="1587008518588">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" timestamp="1587009718410">
         <mark key="'" line="54" column="12" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="94" column="23" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="66" column="97" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserEmergencyContactCest.php" timestamp="1586489307614">
         <mark key="'" line="291" column="0" />
@@ -306,40 +309,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGNyaXRlcmlvbk1hdGNoZXJTdHViOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmRheXNJbkFkdmFuY2U=</text>
+        <text>$daysInAdvance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJJHJlc3VsdC0+c2V0UnVsZShbJ2RheXNJbkFkdmFuY2UnID0+ICRleGNlcHRpb25bJ2RheXNJbkFkdmFuY2UnXV0pOwo=</text>
+        <text encoding="base64">CQkkcmVzdWx0LT5zZXRSZXN1bHQoJHRoaXMtPmNvbXB1dGVSZXN1bHQoJGl0aW5lcmFyeSwgJGRheXNJbkFkdmFuY2UpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGNyaXRlcmlvbk1hdGNoZXJTdHViOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJCQkkcmVzdWx0LT5zZXRSZXN1bHQoJHRoaXMtPmNvbXB1dGVSZXN1bHQoJGl0aW5lcmFyeSwgJGV4Y2VwdGlvblsnZGF5c0luQWR2YW5jZSddKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y3JpdGVyaW9uTWF0Y2hlclN0dWIgPSBtOjptb2NrKCk7Cg==</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiBfYmVmb3JlKCkgewo=</text>
+        <text encoding="base64">CQkJCQkJJHJlc3VsdC0+c2V0UmVzdWx0KFBvbGljeUFjdGlvbjo6TkVFRF9BUFBST1ZBTCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y3JpdGVyaW9uTWF0Y2hlclN0dWIgPSBTdHViOjptYWtlRW1wdHkoRmxpZ2h0UG9saWN5Q3JpdGVyaW9uTWF0Y2hlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">CQkJCQllbHNlIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">U3R1Yjo6bWFrZUVtcHR5KEZsaWdodFBvbGljeUNyaXRlcmlvbk1hdGNoZXI6OmNsYXNzLCBbCgkJCSdtYXRjaENyaXRlcmlvbicgPT4gCgkJXSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6Ol9iZWZvcmUoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
+        <text encoding="base64">CQkJCQkJJHJlc3VsdC0+c2V0UmVzdWx0KFBvbGljeUFjdGlvbjo6QUxMT1cpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJJHJlc3VsdC0+c2V0UnVsZShbJ2RheXNJbkFkdmFuY2UnID0+ICR0aGlzLT5kYXlzSW5BZHZhbmNlXSk7Cg==</text>
+        <text encoding="base64">CQkJCQlpZiAoJHRoaXMtPm1hdGNoQWR2YW5jZURheXNMaW1pdCgkaXRpbmVyYXJ5LCAkZXhjZXB0aW9uWydkYXlzSW5BZHZhbmNlJ10pKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
