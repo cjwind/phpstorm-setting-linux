@@ -95,7 +95,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1587006938611">
+      <file name="/a.dummy" timestamp="1587008284155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1586770672383">
@@ -134,12 +134,12 @@
         <mark key="^" line="53" column="124" />
         <mark key="." line="53" column="123" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" timestamp="1587007235158">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" timestamp="1587008518588">
         <mark key="'" line="54" column="12" />
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="68" column="31" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="68" column="31" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="94" column="23" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserEmergencyContactCest.php" timestamp="1586489307614">
         <mark key="'" line="291" column="0" />
@@ -148,11 +148,11 @@
         <mark key="." line="317" column="0" />
         <mark key="^" line="294" column="51" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587006944476">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587008354610">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="60" column="56" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" timestamp="1586486853161">
         <mark key="'" line="141" column="0" />
@@ -201,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="28" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/flight/storage/yiiActiveRecords/TravelReminder.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/flight/forms/TravelReminderForm.php" />
       <jump line="46" column="0" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/flight/storage/yiiPaginators/TravelReminderPaginator.php" />
       <jump line="11" column="0" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/TravelReminderSaveFormTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/tests/codeception.yml" />
@@ -299,47 +297,49 @@
       <jump line="187" column="35" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="23" column="12" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" />
       <jump line="57" column="33" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
       <jump line="84" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
+      <jump line="30" column="30" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
+      <jump line="139" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Add route of get credit cards in manager</text>
+        <text encoding="base64">CXByaXZhdGUgJGNyaXRlcmlvbk1hdGNoZXJTdHViOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'needApproval'</text>
+        <text encoding="base64">JHRoaXMtPmRheXNJbkFkdmFuY2U=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0Q29tcHV0ZV9NYXRjaExpbWl0X0VxdWFsKCkgewoJCSR0aGlzLT5naXZlbk5vd0RhdGUoJzIwMjAtMDMtMTMnKTsKCQkkdGhpcy0+Z2l2ZW5GbGlnaHREZXBhcnR1cmVEYXRlKCcyMDIwLTAzLTIwJyk7CgkJJHRoaXMtPmdpdmVuRGF5c0luQWR2YW5jZSg3KTsKCgkJJHRoaXMtPndoZW5Db21wdXRlKCk7CgoJCSR0aGlzLT5yZXN1bHRTaG91bGRCZUFsbG93KCk7CgkJJHRoaXMtPnJ1bGVTaG91bGRCZShbJ2RheXNJbkFkdmFuY2UnID0+IDddKTsKCQkkdGhpcy0+Y3JpdGVyaW9uU2hvdWxkQmVOdWxsKCk7Cgl9Cg==</text>
+        <text encoding="base64">CQkJCQkJJHJlc3VsdC0+c2V0UnVsZShbJ2RheXNJbkFkdmFuY2UnID0+ICRleGNlcHRpb25bJ2RheXNJbkFkdmFuY2UnXV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text>Add route of get credit cards in manager</text>
+        <text encoding="base64">CXByaXZhdGUgJGNyaXRlcmlvbk1hdGNoZXJTdHViOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cmVzdWx0U2hvdWxkQmVBbGxvdygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXJyCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgY29tcHV0ZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">CQkkdGhpcy0+Y3JpdGVyaW9uTWF0Y2hlclN0dWIgPSBtOjptb2NrKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIOavlOi8gyBkYXRlLCDoqK3lpb0gcmVzdWx0Cg==</text>
+        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiBfYmVmb3JlKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8qKgoJICogQHBhcmFtIG1peGVkICRjcml0ZXJpb24KCSAqLwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+Y3JpdGVyaW9uTWF0Y2hlclN0dWIgPSBTdHViOjptYWtlRW1wdHkoRmxpZ2h0UG9saWN5Q3JpdGVyaW9uTWF0Y2hlcjo6Y2xhc3MpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8qKgoJICogQHJldHVybiBtaXhlZAoJICovCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">U3R1Yjo6bWFrZUVtcHR5KEZsaWdodFBvbGljeUNyaXRlcmlvbk1hdGNoZXI6OmNsYXNzLCBbCgkJCSdtYXRjaENyaXRlcmlvbicgPT4gCgkJXSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">CQlwYXJlbnQ6Ol9iZWZvcmUoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8qKgoJICogQHBhcmFtIG1peGVkICRydWxlCg==</text>
+        <text encoding="base64">CQkJCQkJJHJlc3VsdC0+c2V0UnVsZShbJ2RheXNJbkFkdmFuY2UnID0+ICR0aGlzLT5kYXlzSW5BZHZhbmNlXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
