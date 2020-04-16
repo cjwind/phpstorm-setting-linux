@@ -151,11 +151,11 @@
         <mark key="." line="317" column="0" />
         <mark key="^" line="294" column="51" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587012340729">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587021287324">
         <mark key="'" line="125" column="0" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="200" column="31" />
-        <mark key="." line="200" column="31" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="213" column="46" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" timestamp="1586486853161">
@@ -312,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIGNvbnN0IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -322,28 +322,28 @@
         <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0Q29tcHV0ZV9IYXNFbmFibGVkRXhjZXB0aW9uKCkgewoJCSR0aGlzLT5naXZlbk5vd0RhdGUoJzIwMjAtMDMtMTInKTsKCQkkdGhpcy0+Z2l2ZW5GbGlnaHREZXBhcnR1cmVEYXRlKCcyMDIwLTAzLTIwJyk7CgkJJHRoaXMtPmdpdmVuRGF5c0luQWR2YW5jZSg3KTsKCQkkdGhpcy0+Z2l2ZW5FeGNlcHRpb24oCgkJCVsKCQkJCSdlbmFibGVkJyA9PiB0cnVlLAoJCQkJJ2RheXNJbkFkdmFuY2UnID0+IDE0LAoJCQkJJ2NyaXRlcmlhJyA9PiBbCgkJCQkJJ3R5cGUnID0+ICdkdXJhdGlvbkJlbG93JywKCQkJCQknaG91cnMnID0+IDMsCgkJCQldLAoJCQkJJ2NyaXRlcmlhTWF0Y2hSZXN1bHQnID0+IHRydWUsCgkJCV0KCQkpOwoKCQkkdGhpcy0+d2hlbkNvbXB1dGUoKTsKCgkJJHRoaXMtPnJlc3VsdFNob3VsZEJlTmVlZEFwcHJvdmFsKCk7CgkJJHRoaXMtPnJ1bGVTaG91bGRCZShbJ2RheXNJbkFkdmFuY2UnID0+IDE0XSk7CgkJJHRoaXMtPmNyaXRlcmlvblNob3VsZEJlKFsndHlwZScgPT4gJ2R1cmF0aW9uQmVsb3cnLCAnaG91cnMnID0+IDNdKTsKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGNvbnN0IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y3JpdGVyaW9uU2hvdWxkQmUoWyd0eXBlJyA9PiAnZHVyYXRpb25CZWxvdycsICdob3VycycgPT4gM10pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Y3JpdGVyaW9uU2hvdWxkQmUoWyd0eXBlJyA9PiAnZHVyYXRpb25CZWxvdycsICdob3VycycgPT4gM10pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCSRjcml0ZXJpb25NYXRjaGVyU3R1Yi0+YWxsb3dzKCktPm1hdGNoQ3JpdGVyaW9uKCktPndpdGhBbnlBcmdzKCktPmFuZFJldHVybnMoJHRoaXMtPmNyaXRlcmlhTWF0Y2hSZXN1bHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGNyaXRlcmlhTWF0Y2hSZXN1bHQ7Cg==</text>
+        <text encoding="base64">Ly8JCSRjcml0ZXJpb25NYXRjaGVyU3R1Yi0+YWxsb3dzKCktPm1hdGNoQ3JpdGVyaW9uKCktPndpdGhBbnlBcmdzKCktPmFuZFJldHVybnMoJHRoaXMtPmNyaXRlcmlhTWF0Y2hSZXN1bHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZAkJJHRoaXMtPmNyaXRlcmlhTWF0Y2hSZXN1bHQgPSB0cnVlOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgJGNyaXRlcmlhTWF0Y2hSZXN1bHQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ZAkJJHRoaXMtPmNyaXRlcmlhTWF0Y2hSZXN1bHQgPSB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
