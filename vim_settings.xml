@@ -115,7 +115,6 @@
       <file name="/fragment.php" timestamp="1586924327517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/enums/FlightPolicyCriterionType.php" timestamp="1587029986100" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/.env" timestamp="1587030365643">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="29" column="0" />
@@ -149,8 +148,8 @@
         <mark key="." line="317" column="0" />
         <mark key="^" line="294" column="51" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587021287324">
-        <mark key="'" line="125" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587111666965">
+        <mark key="'" line="12" column="16" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -197,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="22" filename="$USER_HOME$/source/TravelSkope/DigitalTravel/backend/admin/member/forms/MemberTravelReminderQueryForm.php" />
       <jump line="16" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
       <jump line="38" column="4" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
       <jump line="29" column="6" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
@@ -297,6 +295,7 @@
       <jump line="32" column="1" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRuleResult.php" />
       <jump line="47" column="5" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/FlightPolicyCriterionMatcher.php" />
       <jump line="461" column="55" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightItineraryFactoryTest.php" />
+      <jump line="12" column="16" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
