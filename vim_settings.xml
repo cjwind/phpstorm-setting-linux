@@ -96,9 +96,9 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" timestamp="1587377152180">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" timestamp="1587378196094">
         <mark key="'" line="118" column="25" />
-        <mark key="[" line="118" column="9" />
+        <mark key="[" line="103" column="16" />
         <mark key="]" line="107" column="0" />
         <mark key="^" line="117" column="43" />
         <mark key="." line="107" column="0" />
@@ -113,6 +113,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="213" column="46" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/CompanyController.php" timestamp="1587377658329" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/accessControls/AppApiAccessControl.php" timestamp="1587375176347" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRuleResult.php" timestamp="1587012945237">
         <mark key="'" line="32" column="1" />
@@ -166,11 +167,6 @@
         <mark key="]" line="80" column="42" />
         <mark key="^" line="80" column="42" />
         <mark key="." line="80" column="41" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/AdvanceBookingRuleTest.php" timestamp="1586935621753">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" timestamp="1587377102608">
         <mark key="'" line="70" column="10" />
