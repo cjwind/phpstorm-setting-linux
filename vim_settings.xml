@@ -90,34 +90,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1587010831508">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" timestamp="1587378196094">
-        <mark key="'" line="118" column="25" />
-        <mark key="[" line="103" column="16" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="117" column="43" />
-        <mark key="." line="107" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" timestamp="1587375969012">
-        <mark key="'" line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587111666965">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="213" column="46" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/CompanyController.php" timestamp="1587377658329" />
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/accessControls/AppApiAccessControl.php" timestamp="1587375176347" />
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRuleResult.php" timestamp="1587012945237">
-        <mark key="'" line="32" column="1" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587376770289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -134,6 +106,19 @@
         <mark key="[" line="24" column="44" />
         <mark key="]" line="24" column="44" />
         <mark key="." line="24" column="44" />
+      </file>
+      <file name="/a.dummy" timestamp="1587010831508">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" timestamp="1587439460672">
+        <mark key="'" line="64" column="40" />
+        <mark key="[" line="103" column="16" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="117" column="43" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1587373511702">
         <mark key="[" line="90" column="52" />
@@ -154,12 +139,22 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" timestamp="1587375969012">
+        <mark key="'" line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRule.php" timestamp="1587372857852">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="62" column="77" />
         <mark key="]" line="62" column="74" />
         <mark key="^" line="62" column="74" />
         <mark key="." line="62" column="73" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" timestamp="1587111666965">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="213" column="46" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" timestamp="1587029618466">
         <mark key="'" line="196" column="35" />
@@ -174,6 +169,9 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/enums/TripRole.php" timestamp="1587375406743">
         <mark key="[" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRuleResult.php" timestamp="1587012945237">
+        <mark key="'" line="32" column="1" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightItineraryFactoryTest.php" timestamp="1587030297159">
         <mark key="'" line="3" column="55" />
       </file>
@@ -182,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/TravelSkope/source/utb/test/php/codeception.yml" />
       <jump line="44" column="26" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
       <jump line="128" column="0" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
       <jump line="70" column="0" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
@@ -282,6 +279,7 @@
       <jump line="5677" column="22" filename="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" />
       <jump line="70" column="10" filename="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" />
       <jump line="118" column="25" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" />
+      <jump line="64" column="40" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
