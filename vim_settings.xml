@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587376770289">
+      <file name="/Dummy.txt" timestamp="1587444213111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -107,24 +107,25 @@
         <mark key="]" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1587010831508">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" timestamp="1587439460672">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" timestamp="1587443555781">
         <mark key="'" line="64" column="40" />
-        <mark key="[" line="103" column="16" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="117" column="43" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="103" column="16" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1587373511702">
         <mark key="[" line="90" column="52" />
         <mark key="]" line="92" column="56" />
         <mark key="." line="92" column="55" />
         <mark key="^" line="92" column="56" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" timestamp="1587444662512">
+        <mark key="'" line="104" column="8" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="13" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/.env" timestamp="1587030365643">
         <mark key="'" line="77" column="0" />
@@ -156,6 +157,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="213" column="46" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1587444719734">
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="18" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" timestamp="1587029618466">
         <mark key="'" line="196" column="35" />
         <mark key="[" line="84" column="21" />
@@ -175,13 +181,14 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightItineraryFactoryTest.php" timestamp="1587030297159">
         <mark key="'" line="3" column="55" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/resources/TripResource.php" timestamp="1587374856377">
-        <mark key="[" line="36" column="40" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/resources/TripResource.php" timestamp="1587443625530">
+        <mark key="[" line="41" column="56" />
+        <mark key="]" line="41" column="56" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="41" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="26" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
-      <jump line="128" column="0" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
       <jump line="70" column="0" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
       <jump line="14" column="6" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
       <jump line="198" column="8" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
@@ -280,45 +287,47 @@
       <jump line="70" column="10" filename="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" />
       <jump line="118" column="25" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" />
       <jump line="64" column="40" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" />
+      <jump line="102" column="8" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>Add roles to get trip action</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WyR0aGlzLT5dLCAgICAgIC8vIFRPRE8=</text>
+        <text>o</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0TWF0Y2hDcml0ZXJpb25fTm90TWF0Y2hEdXJhdGlvbkJlbG93KCkgewoJCSR0aGlzLT5naXZlbkZsaWdodER1cmF0aW9uSW5NaW4oMjAwKTsKCQkkdGhpcy0+Z2l2ZW5Dcml0ZXJpb25EdXJhdGlvbkJlbG93SW5Ib3VyKDMpOwoKCQkkdGhpcy0+d2hlbk1hdGNoQ3JpdGVyaW9uKCk7CgoJCSR0aGlzLT5zaG91bGROb3RNYXRjaGVkKCk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>Add roles to get trip action</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+cm9sZXMpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIOWTpiwg55yL6LW35L6G6YO95Y+v5Lul55u05o6l55SoIHRyaXAg55qEIGdldHRlciDljrvmi78K</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIOeiuuiqjeaYr+WQpueCuiB0cmF2ZWxsZXIK</text>
+        <text encoding="base64">CQkJJHF1ZXJ5LT5hbmRXaGVyZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIOeiuuiqjeaYr+WQpueCuiBhcHByb3ZlciAo5oeJ6Kmy6KaB55SoIGdyb3VwIOWOu+eulykK</text>
+        <text encoding="base64">CQlpZiAoIWVtcHR5KCRmb3JtLT5nZXRSb2xlcygpKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIOeiuuiqjeaYr+WQpueCuiBjcmVhdG9yICjpgI/pgY4gdHJpcC5jcmVhdG9ySWQpCg==</text>
+        <text>Add roles field to get trips action</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCVsncm9sZXMnLCAnaW4nLCAncmFuZ2UnID0+IFRyaXBSb2xlOjp2YWx1ZXMoKV0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0dXJuIG1peGVkCgkgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
