@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587444213111">
+      <file name="/Dummy.txt" timestamp="1587455928556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -107,6 +107,12 @@
         <mark key="]" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
+      <file name="/a.dummy" timestamp="1587455070946">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" timestamp="1587443555781">
         <mark key="'" line="64" column="40" />
         <mark key="[" line="146" column="0" />
@@ -120,11 +126,11 @@
         <mark key="." line="92" column="55" />
         <mark key="^" line="92" column="56" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" timestamp="1587444662512">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" timestamp="1587454258942">
         <mark key="'" line="104" column="8" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
         <mark key="^" line="47" column="13" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/.env" timestamp="1587030365643">
@@ -157,10 +163,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="213" column="46" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1587444719734">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="54" column="18" />
-        <mark key="." line="54" column="18" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1587455874296">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="79" column="74" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" timestamp="1587029618466">
         <mark key="'" line="196" column="35" />
@@ -174,9 +181,6 @@
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/enums/TripRole.php" timestamp="1587375406743">
         <mark key="[" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRuleResult.php" timestamp="1587012945237">
-        <mark key="'" line="32" column="1" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightItineraryFactoryTest.php" timestamp="1587030297159">
         <mark key="'" line="3" column="55" />
@@ -293,41 +297,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>getId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0TWF0Y2hDcml0ZXJpb25fTm90TWF0Y2hEdXJhdGlvbkJlbG93KCkgewoJCSR0aGlzLT5naXZlbkZsaWdodER1cmF0aW9uSW5NaW4oMjAwKTsKCQkkdGhpcy0+Z2l2ZW5Dcml0ZXJpb25EdXJhdGlvbkJlbG93SW5Ib3VyKDMpOwoKCQkkdGhpcy0+d2hlbk1hdGNoQ3JpdGVyaW9uKCk7CgoJCSR0aGlzLT5zaG91bGROb3RNYXRjaGVkKCk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+cm9sZXMpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8JCWlmICgkZm9ybS0+aGFzUm9sZXMoKSkgewovLwkJCSRwYXJhbXMgPSBbXTsKLy8KLy8JCQlpZiAoJGZvcm0tPmhhc1JvbGVDcmVhdG9yKCkpIHsKLy8JCQkJJHBhcmFtc1tdID0gWydjcmVhdG9ySWQnID0+IFlpaTo6JGFwcC0+dXNlci0+aWRlbnRpdHktPmdldElkKCldOwovLwkJCX0KLy8KLy8JCQlpZiAoJGZvcm0tPmhhc1JvbGVUcmF2ZWxsZXIoKSkgewovLwkJCQkkcGFyYW1zW10gPSBbCi8vCQkJCQknaWQnID0+IFRyaXBUcmF2ZWxsZXJSZWw6OmZpbmQoKQovLwkJCQkJCS0+d2hlcmUoWyd0cmF2ZWxsZXJJZCcgPT4gWWlpOjokYXBwLT51c2VyLT5pZGVudGl0eS0+Z2V0SWQoKV0pCi8vCQkJCQkJLT5zZWxlY3QoJ3RyaXBJZCcpLAovLwkJCQldOwovLwkJCX0KLy8KLy8JCQlpZiAoJGZvcm0tPmhhc1JvbGVBcHByb3ZlcigpKSB7Ci8vCQkJCSR1c2VyU3RvcmFnZSA9IG5ldyBVc2VyU3RvcmFnZSgpOwovLwkJCQkkYXBwcm92ZXJJZHMgPSAkdXNlclN0b3JhZ2UtPmdldEFwcHJvdmVySWRzQnlVc2VySWRzKFtZaWk6OiRhcHAtPnVzZXItPmlkZW50aXR5LT5nZXRJZCgpXSk7Ci8vLy8JCQkJJHBhcmFtc1tdCi8vCQkJfQovLwkJfQ==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJHF1ZXJ5LT5hbmRXaGVyZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoIWVtcHR5KCRmb3JtLT5nZXRSb2xlcygpKSkgewo=</text>
+        <text encoding="base64">Ly8JCSRwYWdpbmF0b3IgPSBuZXcgQWN0aXZlRGF0YVByb3ZpZGVyKAovLwkJCVsKLy8JCQkJJ3F1ZXJ5JyA9PiAkcXVlcnksCi8vCQkJCSdwYWdpbmF0aW9uJyA9PiBbCi8vCQkJCQkncGFnZScgPT4gJGZvcm0tPmdldFBhZ2UoKSwKLy8JCQkJCSdwYWdlU2l6ZScgPT4gJGZvcm0tPmdldFBhZ2VTaXplKCksCi8vCQkJCV0sCi8vCQkJXQovLwkJKTs=</text>
       </register>
       <register name="7" type="2">
-        <text>Add roles field to get trips action</text>
+        <text encoding="base64">CQkJCQldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCVsncm9sZXMnLCAnaW4nLCAncmFuZ2UnID0+IFRyaXBSb2xlOjp2YWx1ZXMoKV0sCg==</text>
+        <text encoding="base64">CQkJCSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cmV0dXJuIG1peGVkCgkgKi8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CQkJCSRxdWVyeS0+YW5kV2hlcmUoCgkJCQkJWwoJCQkJCQknT1InLAoJCQkJCQlbJ2NyZWF0b3JJZCcgPT4gWWlpOjokYXBwLT51c2VyLT5pZGVudGl0eS0+Z2V0SWQoKV0sCgk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
