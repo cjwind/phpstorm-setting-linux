@@ -113,7 +113,11 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587461888069">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FlightController.php" timestamp="1587462988572">
+        <mark key="'" line="50" column="15" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/flight/storage/yiiStorages/FlightSearchSessionStorage.php" timestamp="1587463078275" />
+      <file name="/Dummy.txt" timestamp="1587461989291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -133,17 +137,13 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" timestamp="1587377102608">
         <mark key="'" line="70" column="10" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/enums/TripRole.php" timestamp="1587375406743">
-        <mark key="[" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/company/forms/CompanyForm.php" timestamp="1587461954346">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/company/forms/CompanyForm.php" timestamp="1587462028363">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
       <jump line="14" column="6" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
       <jump line="198" column="8" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
       <jump line="1" column="0" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
@@ -243,6 +243,7 @@
       <jump line="64" column="40" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripController.php" />
       <jump line="50" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" />
       <jump line="102" column="8" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" />
+      <jump line="50" column="15" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FlightController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
