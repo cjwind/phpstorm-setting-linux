@@ -90,11 +90,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587461989291">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1587455070946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -108,14 +103,33 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="47" column="13" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripApprovalStateStorage.php" timestamp="1587548520195">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" timestamp="1587375969012">
         <mark key="'" line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1587545113844">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="54" column="13" />
-        <mark key="^" line="54" column="13" />
-        <mark key="." line="54" column="12" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1587547826433">
+        <mark key="[" line="127" column="55" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1587547634764">
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="31" />
+        <mark key="^" line="55" column="13" />
+        <mark key="." line="65" column="31" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripApprovalFlowController.php" timestamp="1587548590205">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+        <mark key="." line="66" column="24" />
       </file>
       <file name="/" timestamp="1587460399522">
         <mark key="[" line="0" column="0" />
@@ -137,6 +151,7 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" timestamp="1587377102608">
         <mark key="'" line="70" column="10" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/.gitlab-ci.yml" timestamp="1587546076700" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FlightController.php" timestamp="1587462988572">
         <mark key="'" line="50" column="15" />
       </file>
@@ -147,8 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="6" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
-      <jump line="198" column="8" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
       <jump line="1" column="0" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/firstData/connect/FirstDataRequestGeneratorTest.php" />
       <jump line="71" column="0" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
       <jump line="66" column="0" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
@@ -247,39 +260,41 @@
       <jump line="50" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" />
       <jump line="102" column="8" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripQueryForm.php" />
       <jump line="50" column="15" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FlightController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripApprovalFlowController.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripApprovalFlowController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y3VycmVuY3kgPSAkZGF0YVsnY3VycmVuY3knXSA/PyBudWxsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ActiveRecordSaveException</text>
       </register>
       <register name="-" type="4">
-        <text>'SGD'</text>
+        <text>ActiveRecordSaveException</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0TWF0Y2hDcml0ZXJpb25fTm90TWF0Y2hEdXJhdGlvbkJlbG93KCkgewoJCSR0aGlzLT5naXZlbkZsaWdodER1cmF0aW9uSW5NaW4oMjAwKTsKCQkkdGhpcy0+Z2l2ZW5Dcml0ZXJpb25EdXJhdGlvbkJlbG93SW5Ib3VyKDMpOwoKCQkkdGhpcy0+d2hlbk1hdGNoQ3JpdGVyaW9uKCk7CgoJCSR0aGlzLT5zaG91bGROb3RNYXRjaGVkKCk7Cgl9Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5UcmlwSXRlbSgxMiwgVHJpcEl0ZW1TdGF0dXM6OlBBSUQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y3VycmVuY3kgPSAkZGF0YVsnY3VycmVuY3knXSA/PyBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTeXN0ZW1Db25maWc6OnNldChTeXN0ZW1Db25maWc6OkJJTExJTkdfQ1VSUkVOQ1ksICdTR0QnKTsK</text>
+        <text encoding="base64">CglwdWJsaWMgZnVuY3Rpb24gY2hhbmdlVHJpcFBheWFibGVTdGF0ZShUcmlwQXBwcm92YWxTdGF0ZURlY2lzaW9uICRkZWNpc2lvbikgewoJCSR0cmFuID0gVHJpcDo6Z2V0RGIoKS0+YmVnaW5UcmFuc2FjdGlvbigpOwoJCXRyeSB7CgoJCX0KCQljYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewoJCQkkdHJhbi0+cm9sbEJhY2soKTsKCQkJdGhyb3cgJGU7CgkJfQoJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETzogc2hvdWxkIG1vdmUgdG8gc3lzdGVtQ29uZmlnIG9yIGVsc2Ugd2hlcmUsIHNob3VsZCBub3QgaGFyZCBjb2RlZAo=</text>
+        <text encoding="base64">CQkJCTEyID0+IFRyaXBJdGVtU3RhdHVzOjpBUkNISVZFRCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y29tcGFueUZvcm0tPnNldEN1cnJlbmN5KCdUV0QnKTsK</text>
+        <text encoding="base64">CQkkdGhpcy0+Y3VycmVuY3kgPSAkZGF0YVsnY3VycmVuY3knXSA/PyBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW1Db25maWc6OnNldChTeXN0ZW1Db25maWc6OkJJTExJTkdfQ1VSUkVOQ1ksICdTR0QnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy8gVE9ETzogc2hvdWxkIG1vdmUgdG8gc3lzdGVtQ29uZmlnIG9yIGVsc2Ugd2hlcmUsIHNob3VsZCBub3QgaGFyZCBjb2RlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCWlmICgkZm9ybS0+aGFzUm9sZXMoKSkgewovLwkJCSRwYXJhbXMgPSBbXTsKLy8KLy8JCQlpZiAoJGZvcm0tPmhhc1JvbGVDcmVhdG9yKCkpIHsKLy8JCQkJJHBhcmFtc1tdID0gWydjcmVhdG9ySWQnID0+IFlpaTo6JGFwcC0+dXNlci0+aWRlbnRpdHktPmdldElkKCldOwovLwkJCX0KLy8KLy8JCQlpZiAoJGZvcm0tPmhhc1JvbGVUcmF2ZWxsZXIoKSkgewovLwkJCQkkcGFyYW1zW10gPSBbCi8vCQkJCQknaWQnID0+IFRyaXBUcmF2ZWxsZXJSZWw6OmZpbmQoKQovLwkJCQkJCS0+d2hlcmUoWyd0cmF2ZWxsZXJJZCcgPT4gWWlpOjokYXBwLT51c2VyLT5pZGVudGl0eS0+Z2V0SWQoKV0pCi8vCQkJCQkJLT5zZWxlY3QoJ3RyaXBJZCcpLAovLwkJCQldOwovLwkJCX0KLy8KLy8JCQlpZiAoJGZvcm0tPmhhc1JvbGVBcHByb3ZlcigpKSB7Ci8vCQkJCSR1c2VyU3RvcmFnZSA9IG5ldyBVc2VyU3RvcmFnZSgpOwovLwkJCQkkYXBwcm92ZXJJZHMgPSAkdXNlclN0b3JhZ2UtPmdldEFwcHJvdmVySWRzQnlVc2VySWRzKFtZaWk6OiRhcHAtPnVzZXItPmlkZW50aXR5LT5nZXRJZCgpXSk7Ci8vLy8JCQkJJHBhcmFtc1tdCi8vCQkJfQovLwkJfQ==</text>
+        <text encoding="base64">CQkkdGhpcy0+Y29tcGFueUZvcm0tPnNldEN1cnJlbmN5KCdUV0QnKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
