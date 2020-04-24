@@ -99,7 +99,6 @@
         <mark key="^" line="95" column="14" />
         <mark key="." line="95" column="13" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/TripItemFlightForm.php" timestamp="1587636489727" />
       <file name="/a.dummy" timestamp="1587612143522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -139,24 +138,16 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/components/SystemConfigGetter.php" timestamp="1587460966242">
         <mark key="[" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/CompanyController.php" timestamp="1587460836216">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="35" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" timestamp="1587617451694">
         <mark key="'" line="70" column="10" />
         <mark key="[" line="1440" column="0" />
         <mark key="]" line="1440" column="0" />
         <mark key="." line="1440" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/.gitlab-ci.yml" timestamp="1587612196209" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FlightController.php" timestamp="1587462988572">
         <mark key="'" line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/_support/Helper/RESTWithCsrf.php" timestamp="1587615286644" />
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/components/DepFactory.php" timestamp="1587619305158" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/FlightPolicyComputer.php" timestamp="1587701218480" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/company/forms/CompanyForm.php" timestamp="1587462028363">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -168,7 +159,6 @@
         <mark key="]" line="121" column="40" />
         <mark key="." line="121" column="40" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/flight/storage/yiiStorages/FlightOrderCreator.php" timestamp="1587636026104" />
     </filemarks>
     <jumps>
       <jump line="16" column="17" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/utb/test/php/tests/unit/payment/firstData/FirstDataHashVerifierTest.php" />
