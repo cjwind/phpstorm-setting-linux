@@ -90,8 +90,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587713304570">
+      <file name="/Dummy.txt" timestamp="1587713377457">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1587713299865">
         <mark key="[" line="98" column="0" />
@@ -266,8 +268,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>preTripItemId</text>
+      <register name="&quot;" type="2">
+        <text>Remove unused args</text>
       </register>
       <register name="-" type="4">
         <text>preTripItemId</text>
@@ -276,31 +278,31 @@
         <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0UGF5bWVudFRyaXAoKSB7CgkJJHRoaXMtPmdpdmVuVHJpcCgxLCBUcmlwU3RhdHVzOjpBUFBST1ZFRCk7CgkJJHRoaXMtPmdpdmVuVHJpcEl0ZW0oMTEsIFRyaXBJdGVtU3RhdHVzOjpBUFBST1ZFRCk7CgkJJHRoaXMtPmdpdmVuVHJpcEl0ZW0oMTIsIFRyaXBJdGVtU3RhdHVzOjpQQUlEKTsKCQkkdGhpcy0+Z2l2ZW5UcmlwSXRlbSgxMiwgVHJpcEl0ZW1TdGF0dXM6OkFSQ0hJVkVEKTsKCgkJJHRoaXMtPndoZW5QYXltZW50VHJpcCgxKTsKCgkJJHRoaXMtPmRlY2lzaW9uVHJpcElkU2hvdWxkQmUoMSk7CgkJJHRoaXMtPmRlY2lzaW9uVHJpcFN0YXR1c1Nob3VsZEJlKFRyaXBTdGF0dXM6OlBBWUFCTEUpOwoJCSR0aGlzLT5kZWNpc2lvblRyaXBJdGVtc1Nob3VsZEJlKAoJCQlbCgkJCQkxMSA9PiBUcmlwSXRlbVN0YXR1czo6UEFZQUJMRSwKCQkJXQoJCSk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvL1RPRE8gdG1wCg==</text>
+        <text>Remove unused args</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIOaIluiosSwg6ICD5oWu5ZyoIFRyaXBBcHByb3ZhbFN0YXRlRGVjaWRlciDoo6HliqDlhaUgY3JlYXRlVHJpcEl0ZW0g5oiWIHJlcGxhY2VUcmlwSXRlbSDkuYvpoZ7nmoQgZnVuY3Rpb24KCQkvLyDntbHkuIDomZXnkIYgdHJpcCBpdGVtcyDnmoQgc3RhdGUg6L2J5o+bCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQkvL1RPRE8gdG1wCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkvLyBUT0RPIOaIluiosSwg6ICD5oWu5ZyoIFRyaXBBcHByb3ZhbFN0YXRlRGVjaWRlciDoo6HliqDlhaUgY3JlYXRlVHJpcEl0ZW0g5oiWIHJlcGxhY2VUcmlwSXRlbSDkuYvpoZ7nmoQgZnVuY3Rpb24KCQkvLyDntbHkuIDomZXnkIYgdHJpcCBpdGVtcyDnmoQgc3RhdGUg6L2J5o+bCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFRPRE8gdG1wCg==</text>
+        <text encoding="base64">CQkvL1RPRE8gdG1wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIFRPRE8K</text>
+        <text encoding="base64">CS8vIFRPRE8gdG1wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAtIFRPRE8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJXQo=</text>
+        <text encoding="base64">CQkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTExID0+IFRyaXBJdGVtU3RhdHVzOjpQQVlBQkxFLAo=</text>
+        <text encoding="base64">CQkJXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJWwo=</text>
+        <text encoding="base64">CQkJCTExID0+IFRyaXBJdGVtU3RhdHVzOjpQQVlBQkxFLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
