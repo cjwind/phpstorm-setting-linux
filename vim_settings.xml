@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587722178043">
+      <file name="/Dummy.txt" timestamp="1588063218717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -109,14 +109,24 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/.env" timestamp="1587713120412">
         <mark key="[" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1588060148725">
-        <mark key="[" line="578" column="64" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1588063134255">
+        <mark key="'" line="607" column="0" />
+        <mark key="[" line="607" column="0" />
+        <mark key="]" line="607" column="0" />
+        <mark key="." line="607" column="0" />
+        <mark key="^" line="596" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripApprovalFlowController.php" timestamp="1587614394720">
         <mark key="'" line="65" column="4" />
         <mark key="[" line="87" column="38" />
         <mark key="]" line="87" column="38" />
         <mark key="." line="87" column="38" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1588062683927">
+        <mark key="[" line="223" column="32" />
+        <mark key="]" line="223" column="33" />
+        <mark key="^" line="223" column="33" />
+        <mark key="." line="223" column="32" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1587722703109">
         <mark key="'" line="160" column="0" />
@@ -141,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="20" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" />
       <jump line="109" column="64" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" />
       <jump line="35" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" />
       <jump line="69" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/forms/CreditCardCreateForm.php" />
@@ -241,45 +250,46 @@
       <jump line="160" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" />
       <jump line="39" column="20" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" />
       <jump line="75" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" />
+      <jump line="607" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Remove unused args</text>
       </register>
       <register name="-" type="4">
-        <text>NEED_APPROVAL</text>
+        <text>PAYABLE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5UcmlwSXRlbSgyMSwgVHJpcEl0ZW1TdGF0dXM6OkFQUFJPVkVELCBQb2xpY3lBY3Rpb246Ok5FRURfQVBQUk9WQUwpOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0UmVwbGFjZVRyaXBJdGVtX1JlcGxhY2VBdXRvQXBwcm92ZWRJdGVtX1Nob3VsZFJldmVyc2VNYW51YWxseUFwcHJvdmVkSXRlbXMoKSB7CgkJJHRoaXMtPmdpdmVuVHJpcCgxLCBUcmlwU3RhdHVzOjpQRU5ESU5HQVBQUk9WQUwpOwoJCSR0aGlzLT5naXZlblRyaXBJdGVtKDExLCBUcmlwSXRlbVN0YXR1czo6QVBQUk9WRUQsIFBvbGljeUFjdGlvbjo6QUxMT1cpOwoJCSR0aGlzLT5naXZlblRyaXBJdGVtKDIxLCBUcmlwSXRlbVN0YXR1czo6QVBQUk9WRUQsIFBvbGljeUFjdGlvbjo6TkVFRF9BUFBST1ZBTCk7CgkJJHRoaXMtPmdpdmVuVHJpcEl0ZW0oMjIsIFRyaXBJdGVtU3RhdHVzOjpBUFBST1ZFRCwgUG9saWN5QWN0aW9uOjpOT1RfQUxMT1cpOwoJCSR0aGlzLT5naXZlblRyaXBJdGVtKDIzLCBUcmlwSXRlbVN0YXR1czo6UEFZQUJMRSwgUG9saWN5QWN0aW9uOjpORUVEX0FQUFJPVkFMKTsKCQkkdGhpcy0+Z2l2ZW5UcmlwSXRlbSgyNCwgVHJpcEl0ZW1TdGF0dXM6OlBBWUFCTEUsIFBvbGljeUFjdGlvbjo6Tk9UX0FMTE9XKTsKCgkJJHRoaXMtPndoZW5SZXBsYWNlVHJpcEl0ZW0oMSwgMTEpOwoKCQkkdGhpcy0+ZGVjaXNpb25UcmlwSXRlbXNTaG91bGRCZSgKCQkJWwoJCQkJMTEgPT4gVHJpcEl0ZW1TdGF0dXM6OkFSQ0hJVkVELAoJCQkJMjEgPT4gVHJpcEl0ZW1TdGF0dXM6OlBFTkRJTkdBUFBST1ZBTCwKCQkJCTIyID0+IFRyaXBJdGVtU3RhdHVzOjpQRU5ESU5HQVBQUk9WQUwsCgkJCQkyMyA9PiBUcmlwSXRlbVN0YXR1czo6UEVORElOR0FQUFJPVkFMLAoJCQkJMjQgPT4gVHJpcEl0ZW1TdGF0dXM6OlBFTkRJTkdBUFBST1ZBTCwKCQkJXQoJCSk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Remove unused args</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgkvLyBUT0RPIOimgeeiuuiqjSBjaGVlciDmlLnmrITkvY3lkI3nqLEKCXB1YmxpYyBmdW5jdGlvbiBnZXRQb2xpY3lSZXN1bHQoKSB7CgkJcmV0dXJuICR0aGlzLT5wb2xpY3lSZXN1bHREZXRhaWxbJ3Jlc3VsdCddOwoJfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCSR0cmlwSXRlbVN0b3JhZ2VTdHViID0gU3R1Yjo6bWFrZUVtcHR5KAovLwkJCUlUcmlwSXRlbVN0b3JhZ2U6OmNsYXNzLAovLwkJCVsKLy8JCQkJJ2ZpbmRUcmlwSXRlbUxpc3QnID0+ICR0aGlzLT50cmlwSXRlbXMsCi8vCQkJXQovLwkJKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCSR0cmlwSXRlbSA9ICR0aGlzLT50cmlwSXRlbVN0b3JhZ2UtPmZpbmRUcmlwSXRlbUJ5SWQoJHJlcGxhY2luZ1RyaXBJdGVtSWQpOwo=</text>
+        <text encoding="base64">CQkJCQkkdHJpcEl0ZW0tPmdldElkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dHJpcD1uZXcgVHJpcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>Remove unused args</text>
+        <text encoding="base64">CQkkdHJpcCA9ICR0aGlzLT50cmlwU3RvcmFnZS0+ZmluZFRyaXBCeUlkKCR0cmlwSWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvL1RPRE8gdG1wCg==</text>
+        <text encoding="base64">CS8vIFRPRE8gaSdtIGhlcmUsIOacieS6myB0cmlwIGl0ZW0g55qEIGdpdmVuIOmChOaykuWKoAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
