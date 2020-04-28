@@ -139,6 +139,7 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1587722703109">
         <mark key="'" line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/TravelCorp/modules/api/hotel/HotelSearcher.php" timestamp="1588047863034" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" timestamp="1587617451694">
         <mark key="'" line="70" column="10" />
         <mark key="[" line="1440" column="0" />
