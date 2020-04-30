@@ -125,6 +125,7 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1588228240544" />
       <file name="/fragment.php" timestamp="1588217461182">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,12 +173,6 @@
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
         <mark key="." line="168" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/ITripItemStorage.php" timestamp="1588129652158">
-        <mark key="'" line="8" column="10" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" timestamp="1588218747063">
         <mark key="'" line="10" column="55" />
