@@ -97,57 +97,45 @@
         <mark key="^" line="102" column="40" />
         <mark key="." line="109" column="92" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/approvalFlow/TripItemApprovalStateDecision.php" timestamp="1588218253023">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="31" />
+      <file name="$USER_HOME$/TravelSkope/source/TravelCorp/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1588565938839" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" timestamp="1588583099178">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1588218697952">
-        <mark key="'" line="694" column="20" />
-        <mark key="[" line="681" column="0" />
-        <mark key="]" line="681" column="63" />
-        <mark key="^" line="588" column="55" />
-        <mark key="." line="681" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/ITripQueryForm.php" timestamp="1588583355540" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/enums/TripEvent.php" timestamp="1588583064858">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/user/storages/yiiStorages/UserStorage.php" timestamp="1588216157711">
-        <mark key="[" line="220" column="10" />
-        <mark key="]" line="209" column="0" />
-        <mark key="^" line="209" column="0" />
-        <mark key="." line="209" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" timestamp="1588581552134" />
+      <file name="$USER_HOME$/TravelSkope/source/TravelCorp/utb/models/SlackHelper.php" timestamp="1588568748867">
+        <mark key="[" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/storages/yiiStorages/TripApprovalStateStorageTest.php" timestamp="1588213400644">
-        <mark key="[" line="137" column="22" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="88" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/TripEventTrigger.php" timestamp="1588583446771">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="13" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588235359368">
+      <file name="/Dummy.txt" timestamp="1588583492204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/db/migrations/20200428091719_add_need_extend_to_trip_item.php" timestamp="1588214928259">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/order/storage/yiiStorages/FlightOrderStorage.php" timestamp="1588233620172" />
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/db/migrations/20200428091719_add_need_extendable_to_trip_item.php" timestamp="1588214938418">
-        <mark key="[" line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/routes.php" timestamp="1588228240544" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/storage/yiiActiveRecords/OrderItem.php" timestamp="1588235754246">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1588217461182">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1588570318015">
+        <mark key="'" line="121" column="16" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripApprovalStateStorage.php" timestamp="1588213515453">
-        <mark key="[" line="42" column="35" />
-        <mark key="]" line="42" column="35" />
-        <mark key="." line="42" column="35" />
-        <mark key="^" line="43" column="66" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/OrderEventBinder.php" timestamp="1588583527250">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="46" column="5" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/approvalFlow/TripItemExtendableDecider.php" timestamp="1588236115449">
         <mark key="[" line="33" column="43" />
@@ -155,25 +143,9 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1588235535050">
-        <mark key="'" line="24" column="92" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="^" line="238" column="0" />
-        <mark key="." line="238" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/channels/flight/sabreSoap/RequestBuilder.php" timestamp="1588233094727" />
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/commands/DbController.php" timestamp="1588215019476" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/order/storage/yiiStorages/OrderStorage.php" timestamp="1588236269877">
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" timestamp="1588218747063">
-        <mark key="'" line="10" column="55" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="101" column="15" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/ITripItemDao.php" timestamp="1588219137826">
         <mark key="'" line="6" column="10" />
@@ -182,10 +154,14 @@
         <mark key="^" line="32" column="38" />
         <mark key="." line="25" column="7" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/TripEventBinder.php" timestamp="1588583520285">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="24" filename="$USER_HOME$/TravelSkope/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
-      <jump line="6" column="44" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" />
       <jump line="14" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="64" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="68" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
@@ -284,45 +260,47 @@
       <jump line="695" column="20" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="10" column="55" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" />
       <jump line="45" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/storage/yiiActiveRecords/OrderItem.php" />
+      <jump line="121" column="16" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/storage/yiiActiveRecords/Order.php" />
+      <jump line="17" column="5" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/OrderEventBinder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQllbHNlIGlmICgkb3JkZXJJdGVtc1swXS0+dHlwZT09KQo=</text>
+      <register name="&quot;" type="4">
+        <text>Order</text>
       </register>
       <register name="-" type="4">
-        <text>$orderStorage</text>
+        <text>Order</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5UcmlwSXRlbSgxMDAsIFRyaXBJdGVtU3RhdHVzOjpEUkFGVCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0cmlnZ2VyU3RhdHVzQ2hhbmdlRXZlbnRzKCRlKSB7CgkJJG9yZGVyID0gJGUtPnNlbmRlcjsKCQlpZiAoYXJyYXlfa2V5X2V4aXN0cygnc3RhdHVzJywgJGUtPmNoYW5nZWRBdHRyaWJ1dGVzKSkgewoJCQkvLyBVc2Ugc3RhdHVzIGF0dHJpYnV0ZSBkaXJlY3RseSBoZXJlLCBiZWNhdXNlIGV2ZW50IHN5c3RlbSBhbmQgY2hhbmdlZCBhdHRyaWJ1dGVzIGFyZSByZWxhdGVkIHdpdGggWWlpIHRvbyBtdWNoLgoJCQlzd2l0Y2ggKCRvcmRlci0+c3RhdHVzKSB7CgkJCQljYXNlIE9yZGVyOjpTVEFUVVNfQ09ORklSTUVEOgoJCQkJCSRvcmRlci0+dHJpZ2dlcihPcmRlcjo6RVZFTlRfQ09ORklSTUVEKTsKCQkJCQlicmVhazsKCQkJCWNhc2UgT3JkZXI6OlNUQVRVU19QQUlEOgoJCQkJCSRvcmRlci0+dHJpZ2dlcihPcmRlcjo6RVZFTlRfUEFJRCk7CgkJCQkJYnJlYWs7CgkJCQljYXNlIE9yZGVyOjpTVEFUVVNfRVhQSVJFRDoKCQkJCQkkb3JkZXItPnRyaWdnZXIoT3JkZXI6OkVWRU5UX0VYUElSRUQpOwoJCQkJCWJyZWFrOwoJCQkJY2FzZSBPcmRlcjo6U1RBVFVTX0NPTVBMRVRFRDoKCQkJCQkkb3JkZXItPnRyaWdnZXIoT3JkZXI6OkVWRU5UX0NPTVBMRVRFRCk7CgkJCQkJYnJlYWs7CgkJCQljYXNlIE9yZGVyOjpTVEFUVVNfQ0FOQ0VMRUQ6CgkJCQkJJG9yZGVyLT50cmlnZ2VyKE9yZGVyOjpFVkVOVF9DQU5DRUxFRCk7CgkJCQkJYnJlYWs7CgkJCQljYXNlIE9yZGVyOjpTVEFUVVNfRkFJTEVEOgoJCQkJCSRvcmRlci0+dHJpZ2dlcihPcmRlcjo6RVZFTlRfRkFJTEVEKTsKCQkJCQlicmVhazsKCQkJCWRlZmF1bHQ6CgkJCQkJYnJlYWs7CgkJCX0KCQl9Cgl9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQllbHNlIGlmICgkb3JkZXJJdGVtc1swXS0+dHlwZT09KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQkJCWNhc2UgT3JkZXI6OlNUQVRVU19QQUlEOgoJCQkJCSR0cmlwLT50cmlnZ2VyKE9yZGVyOjpFVkVOVF9QQUlEKTsKCQkJCQlicmVhazsKCQkJCWNhc2UgT3JkZXI6OlNUQVRVU19FWFBJUkVEOgoJCQkJCSR0cmlwLT50cmlnZ2VyKE9yZGVyOjpFVkVOVF9FWFBJUkVEKTsKCQkJCQlicmVhazsKCQkJCWNhc2UgT3JkZXI6OlNUQVRVU19DT01QTEVURUQ6CgkJCQkJJHRyaXAtPnRyaWdnZXIoT3JkZXI6OkVWRU5UX0NPTVBMRVRFRCk7CgkJCQkJYnJlYWs7CgkJCQljYXNlIE9yZGVyOjpTVEFUVVNfQ0FOQ0VMRUQ6CgkJCQkJJHRyaXAtPnRyaWdnZXIoT3JkZXI6OkVWRU5UX0NBTkNFTEVEKTsKCQkJCQlicmVhazsKCQkJCWNhc2UgT3JkZXI6OlNUQVRVU19GQUlMRUQ6CgkJCQkJJHRyaXAtPnRyaWdnZXIoT3JkZXI6OkVWRU5UX0ZBSUxFRCk7CgkJCQkJYnJlYWs7Cgk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkb3JkZXIgPSAkdGhpcy0+ZmluZE9yZGVyQnlJZCgkb3JkZXJJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJG9yZGVySXRlbXNbMF0tPgo=</text>
+        <text encoding="base64">dXNlIHV0YlxvcmRlclxzdG9yYWdlXHlpaUFjdGl2ZVJlY29yZHNcT3JkZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJG9yZGVyLT4K</text>
+        <text encoding="base64">CQllbHNlIGlmICgkb3JkZXJJdGVtc1swXS0+dHlwZT09KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBjcmVhdGUgZmxpZ2h0IG9yZGVyIHN0b3JhZ2UgYW5kCg==</text>
+        <text encoding="base64">CQkkb3JkZXIgPSAkdGhpcy0+ZmluZE9yZGVyQnlJZCgkb3JkZXJJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJG9yZGVyLT5nZXQK</text>
+        <text encoding="base64">CQkJJG9yZGVySXRlbXNbMF0tPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CSRvcmRlckl0ZW1zID0gJG9yZGVyU3RvcmFnZS0+ZmluZE9yZGVySXRlbXMoJG9yZGVySWQpOwoKCQlmb3JlYWNoICgkb3JkZXJJdGVtcyBhcyAkb3JkZXJJdGVtKSB7CgkJfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoJG9yZGVySXRlbS0+Z2V0KQkK</text>
+        <text encoding="base64">CQkJJG9yZGVyLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
