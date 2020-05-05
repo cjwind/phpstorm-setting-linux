@@ -90,10 +90,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1588586785950">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/notification/Notifier.php" timestamp="1588648590850">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1588585950038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/TravelCorp/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1588565938839" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1588570318015">
+        <mark key="'" line="121" column="16" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" timestamp="1588585285786">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -105,24 +117,44 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="49" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/OrderEventBinder.php" timestamp="1588583527250">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="46" column="5" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/enums/TripItemEvent.php" timestamp="1588584677211">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="12" column="28" />
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/forms/ITripQueryForm.php" timestamp="1588583355540" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/commands/TestController.php" timestamp="1588585208447">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/enums/TripEvent.php" timestamp="1588583064858">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" timestamp="1588581552134" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/order/storage/yiiStorages/OrderStorage.php" timestamp="1588236269877">
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/config/web.php" timestamp="1588586527507">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="51" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" timestamp="1588585293425">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="100" column="15" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/TravelCorp/utb/models/SlackHelper.php" timestamp="1588568748867">
         <mark key="[" line="6" column="8" />
@@ -133,51 +165,15 @@
         <mark key="^" line="37" column="52" />
         <mark key="." line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/notification/NotifierBinder.php" timestamp="1588587160385">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588586785950">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/notification/Notifier.php" timestamp="1588586608325">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="26" column="43" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1588570318015">
-        <mark key="'" line="121" column="16" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/OrderEventBinder.php" timestamp="1588583527250">
-        <mark key="'" line="17" column="5" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="46" column="5" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/commands/TestController.php" timestamp="1588585208447">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/order/storage/yiiStorages/OrderStorage.php" timestamp="1588236269877">
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" timestamp="1588585293425">
-        <mark key="'" line="34" column="8" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="100" column="15" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/TripEventBinder.php" timestamp="1588585822493">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="111" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/notification/NotifierBinder.php" timestamp="1588587160385">
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -286,40 +282,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Extract function</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="-" type="4">
-        <text>// TODO Do sth. need to do in trip item notification.</text>
+        <text>/*</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQknYXBwXGZlYXR1cmVzXG5vdGlmaWNhdGlvblxOb3RpZmllckJpbmRlcicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text>Extract function</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZWNobyAnbm90aWZ5IHRyaXAgaXRlbSEhISc7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJZWNobyAnbm90aWZ5IHRyaXAhISEnOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSAqLwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CS8qCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBEbyB3aGF0IHRyaXAgbm90aWZpY2F0aW9uIG5lZWQgdG8gZG8uIAo=</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPlRyaXBOb3RpZmljYXRpb24K</text>
+        <text encoding="base64">Ly8JIFRPRE8gUmVuYW1lIGlmIHlvdSBoYXZlIGJldHRlciBuYW1lLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnRyaXBOb3RpZmljYXRpb24K</text>
+        <text encoding="base64">Ly8JIFRPRE8gUmVuYW1lIGlmIHlvdSBoYXZlIGJldHRlciBuYW1lLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPgo=</text>
+        <text>Extract function</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZXZlbnQpOwo=</text>
+        <text encoding="base64">CQkJZWNobyAnbm90aWZ5IHRyaXAgaXRlbSEhISc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
