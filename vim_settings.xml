@@ -90,12 +90,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588586785950">
+      <file name="/Dummy.txt" timestamp="1588648647658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/notification/Notifier.php" timestamp="1588648590850">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/notification/Notifier.php" timestamp="1588648593372">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -165,10 +165,12 @@
         <mark key="^" line="37" column="52" />
         <mark key="." line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/TripEventBinder.php" timestamp="1588585822493">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="111" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/TripEventBinder.php" timestamp="1588649796075">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="4" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/notification/NotifierBinder.php" timestamp="1588587160385">
         <mark key="[" line="38" column="8" />
@@ -177,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="20" column="4" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="81" column="20" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
       <jump line="8" column="6" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightPolicyCriterionMatcherTest.php" />
@@ -277,18 +278,19 @@
       <jump line="17" column="5" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/order/OrderEventBinder.php" />
       <jump line="42" column="20" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" />
       <jump line="35" column="8" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" />
+      <jump line="34" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/TripEventBinder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gYmluZFRyaXBJdGVtU2F2ZUV2ZW50cygpOiB2b2lkIHsKCQlVdGlsOjpzYWZlT24oVHJpcEl0ZW06OmNsYXNzLCBBY3RpdmVSZWNvcmQ6OkVWRU5UX0FGVEVSX0lOU0VSVCwgWyR0aGlzLT5ldmVudFRyaWdnZXIsICd0cmlnZ2VyVHJpcEl0ZW1FdmVudCddKTsKCQlVdGlsOjpzYWZlT24oVHJpcEl0ZW06OmNsYXNzLCBBY3RpdmVSZWNvcmQ6OkVWRU5UX0FGVEVSX1VQREFURSwgWyR0aGlzLT5ldmVudFRyaWdnZXIsICd0cmlnZ2VyVHJpcEl0ZW1FdmVudCddKTsKCX0K</text>
       </register>
       <register name="-" type="4">
         <text>/*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQknYXBwXGZlYXR1cmVzXG5vdGlmaWNhdGlvblxOb3RpZmllckJpbmRlcicsCg==</text>
+        <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gYmluZFRyaXBJdGVtU2F2ZUV2ZW50cygpOiB2b2lkIHsKCQlVdGlsOjpzYWZlT24oVHJpcEl0ZW06OmNsYXNzLCBBY3RpdmVSZWNvcmQ6OkVWRU5UX0FGVEVSX0lOU0VSVCwgWyR0aGlzLT5ldmVudFRyaWdnZXIsICd0cmlnZ2VyVHJpcEl0ZW1FdmVudCddKTsKCQlVdGlsOjpzYWZlT24oVHJpcEl0ZW06OmNsYXNzLCBBY3RpdmVSZWNvcmQ6OkVWRU5UX0FGVEVSX1VQREFURSwgWyR0aGlzLT5ldmVudFRyaWdnZXIsICd0cmlnZ2VyVHJpcEl0ZW1FdmVudCddKTsKCX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ki8K</text>
@@ -329,7 +331,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
