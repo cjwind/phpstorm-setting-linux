@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1588738805102">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1588740490078">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
         <mark key="^" line="154" column="9" />
@@ -108,6 +108,9 @@
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItemReplaceRel.php" timestamp="1588737476403">
         <mark key="[" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/scenario/TripItemCest.php" timestamp="1588740964828">
+        <mark key="[" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripItemReplaceRel.php" timestamp="1588737453314">
         <mark key="[" line="5" column="0" />
@@ -127,24 +130,34 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="12" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/scenario/CreateFlightTripItemCest.php" timestamp="1588741706702">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/accessControls/AppApiAccessControl.php" timestamp="1588734760810" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripItemReplaceRelStorage.php" timestamp="1588737444956">
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588738879079">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/TripApprovalFlowCest.php" timestamp="1588741583777">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="34" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588740942677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/db/migrations/20200429213011_traveloka_hotel.php" timestamp="1588735818629" />
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/notification/Notifier.php" timestamp="1588648593372">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="/fragment.php" timestamp="1588738776073">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/TripItemCest.php" timestamp="1588740842564">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1588674296466">
         <mark key="[" line="353" column="75" />
@@ -162,26 +175,6 @@
         <mark key="]" line="24" column="20" />
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="20" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItem.php" timestamp="1588672755666">
-        <mark key="'" line="96" column="5" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="96" column="15" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/ITripItemDao.php" timestamp="1588672761111">
-        <mark key="'" line="6" column="10" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/TripEventBinder.php" timestamp="1588649796075">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="42" column="5" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -289,41 +282,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>Add trip item replace relation tdb sch</text>
+      <register name="&quot;" type="4">
+        <text>seasrch</text>
       </register>
       <register name="-" type="4">
-        <text>Replace trip item failed</text>
+        <text>seasrch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJLT5hZGRDb2x1bW4oJ2l0ZW1JZCcsICdpbnRlZ2VyJywgWydudWxsJyA9PiBmYWxzZSwgJ2xpbWl0JyA9PiAnMTEnLCAnc2lnbmVkJyA9PiBmYWxzZV0pCg==</text>
+        <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gcmVnaXN0ZXJBbmRMb2dpbkFzVXNlclJvbGUoQXBpVGVzdGVyICRJLCAkZW1haWwsICRjb21wYW55SWQpIHsKCQlVc2VyVXRpbDo6cmVnaXN0ZXJBbmRMb2dpbigkSSwgJGVtYWlsLCAnMTIzNDU2NzgnKTsKCQkkdXNlciA9IFVzZXI6OmZpbmQoKS0+d2hlcmUoY29tcGFjdCgnZW1haWwnKSktPm9uZSgpOwoJCSR1c2VyLT5jb21wYW55SWQgPSAkY29tcGFueUlkOwoJCSR1c2VyLT5zYXZlKCk7CgkJVXNlclV0aWw6OmFzc2lnblVzZXJSb2xlKCR1c2VyLT5pZCk7CgkJcmV0dXJuICR1c2VyOwoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text>Add trip item replace relation tdb sch</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Add trip item replace relation tdb sch</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">Ly8JCSRkZWNpc2lvbiA9ICRmb3JtLT5nZXRSZXBsYWNpbmdJdGVtSWQoKSA/Ci8vCQkJJHN0YXRlRGVjaWRlci0+cmVwbGFjZVRyaXBJdGVtKCRmb3JtLT5nZXRUcmlwSWQoKSwgJGZvcm0tPmdldFJlcGxhY2luZ0l0ZW1JZCgpLCAkdHJpcEl0ZW0tPmdldElkKCkpIDoKLy8JCQkkc3RhdGVEZWNpZGVyLT5hZGRUcmlwSXRlbVRvVHJpcCgkZm9ybS0+Z2V0VHJpcElkKCkpOwovLwovLwkJdHJ5IHsKLy8JCQkkc3RhdGVTdG9yYWdlLT5jaGFuZ2VUcmlwSXRlbXNBcHByb3ZhbFN0YXRlKCRkZWNpc2lvbik7Ci8vCQl9Ci8vCQljYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewovLwkJCVlpaTo6JGFwcC0+ZXJyb3JIYW5kbGVyLT5sb2dFeGNlcHRpb24oJGUpOwovLwkJCXRocm93IG5ldyBFeGNlcHRpb24oNTAwLCAnUmVwbGFjZSB0cmlwIGl0ZW0gZmFpbGVkJyk7Ci8vCQl9Ci8vCi8vCQlpZiAoJGZvcm0tPmdldFJlcGxhY2luZ0l0ZW1JZCgpKSB7Ci8vCQkJJHJlcGxhY2VSZWxTdG9yYWdlLT5hZGRSZWwoJGZvcm0tPmdldFJlcGxhY2luZ0l0ZW1JZCgpLCAkdHJpcEl0ZW0tPmdldElkKCkpOwovLwkJfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGV4dHJhY3QgZnVuY3Rpb24gb3IgY2xhc3M/Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text>Add trip item replace relation tdb sch</text>
+        <text encoding="base64">CQkvLyBUT0RPIGV4dHJhY3QgZnVuY3Rpb24gb3IgY2xhc3M/Cg==</text>
       </register>
       <register name="7" type="2">
         <text>Add trip item replace relation tdb sch</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIOe0gOmMhCByZXBsYWNlIOmXnOS/ggo=</text>
+        <text>Add trip item replace relation tdb sch</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkvLyBUT0RPIOe0gOmMhCByZXBsYWNlIOmXnOS/ggo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
