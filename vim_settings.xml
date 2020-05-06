@@ -90,22 +90,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1588738556236">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/FirstDataRedirectUrl.php" timestamp="1588759274429">
         <mark key="[" line="30" column="81" />
         <mark key="]" line="26" column="25" />
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/TripItemReplaceRel.php" timestamp="1588737476403">
-        <mark key="[" line="4" column="24" />
-      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/db/migrations/20200504094019_add_traveloka_code_to_city_table.php" timestamp="1588760160935" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/scenario/TripItemCest.php" timestamp="1588740964828">
         <mark key="[" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/user/storages/yiiStorages/UserStorage.php" timestamp="1588747772419" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/enums/CreditCardStatus.php" timestamp="1588760326700">
+        <mark key="[" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" timestamp="1588758698910">
         <mark key="[" line="61" column="58" />
       </file>
@@ -122,7 +120,7 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/user/forms/UserQueryForm.php" timestamp="1588747763516">
         <mark key="'" line="15" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588759038912">
+      <file name="/Dummy.txt" timestamp="1588760315219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -138,16 +136,15 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/flight/forms/FlightSearchForm.php" timestamp="1588741799799" />
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/TripItemCest.php" timestamp="1588740842564">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="5" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="4" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/.env.example" timestamp="1588757886646" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/UserController.php" timestamp="1588747736449" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/manager/UserCreditCardController.php" timestamp="1588758907461">
         <mark key="[" line="86" column="77" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/db/migrations/20200506101539_add_status_to_credit_card.php" timestamp="1588760217233">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/order/forms/FlightOrderForm.php" timestamp="1588757739836" />
     </filemarks>
@@ -256,41 +253,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TVlTUUxfTUFJTl9EU049bXlzcWw6aG9zdD1tYXJpYWRiMS43bm0ub3JnO2RibmFtZT16b2VfTmF2aXN0ZXBzX2RldmVsb3BtZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>seasrch</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TVlTUUxfTUFJTl9EU049bXlzcWw6aG9zdD1tYXJpYWRiMS43bm0ub3JnO2RibmFtZT16b2VfTmF2aXN0ZXBzX2RldmVsb3BtZW50Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">Y2l0eScpOwoJCSR0YWJsZS0+YWRkQ29sdW1uKAoJCQkn</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CgkJdmFyX2R1bXAoJHRoaXMtPmZvcm1hdHRlZEl0aW5lcmFyeSk7CgkJZXhpdDs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQl2YXJfZHVtcChqc29uX2RlY29kZSgkcmVzcG9uc2UpKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text>Add trip item replace relation tdb sch</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Add trip item replace relation tdb sch</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">Ly8JCSRkZWNpc2lvbiA9ICRmb3JtLT5nZXRSZXBsYWNpbmdJdGVtSWQoKSA/Ci8vCQkJJHN0YXRlRGVjaWRlci0+cmVwbGFjZVRyaXBJdGVtKCRmb3JtLT5nZXRUcmlwSWQoKSwgJGZvcm0tPmdldFJlcGxhY2luZ0l0ZW1JZCgpLCAkdHJpcEl0ZW0tPmdldElkKCkpIDoKLy8JCQkkc3RhdGVEZWNpZGVyLT5hZGRUcmlwSXRlbVRvVHJpcCgkZm9ybS0+Z2V0VHJpcElkKCkpOwovLwovLwkJdHJ5IHsKLy8JCQkkc3RhdGVTdG9yYWdlLT5jaGFuZ2VUcmlwSXRlbXNBcHByb3ZhbFN0YXRlKCRkZWNpc2lvbik7Ci8vCQl9Ci8vCQljYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewovLwkJCVlpaTo6JGFwcC0+ZXJyb3JIYW5kbGVyLT5sb2dFeGNlcHRpb24oJGUpOwovLwkJCXRocm93IG5ldyBFeGNlcHRpb24oNTAwLCAnUmVwbGFjZSB0cmlwIGl0ZW0gZmFpbGVkJyk7Ci8vCQl9Ci8vCi8vCQlpZiAoJGZvcm0tPmdldFJlcGxhY2luZ0l0ZW1JZCgpKSB7Ci8vCQkJJHJlcGxhY2VSZWxTdG9yYWdlLT5hZGRSZWwoJGZvcm0tPmdldFJlcGxhY2luZ0l0ZW1JZCgpLCAkdHJpcEl0ZW0tPmdldElkKCkpOwovLwkJfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGV4dHJhY3QgZnVuY3Rpb24gb3IgY2xhc3M/Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text>Add trip item replace relation tdb sch</text>
+        <text encoding="base64">CQkvLyBUT0RPIGV4dHJhY3QgZnVuY3Rpb24gb3IgY2xhc3M/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -304,7 +301,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
