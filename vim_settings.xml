@@ -113,8 +113,12 @@
         <mark key="]" line="31" column="75" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" timestamp="1588823787459" />
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/enums/CreditCardStatus.php" timestamp="1588761422142">
         <mark key="[" line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1588823749357">
+        <mark key="[" line="308" column="69" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" timestamp="1588758698910">
         <mark key="[" line="61" column="58" />
