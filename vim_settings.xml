@@ -162,12 +162,13 @@
         <mark key="." line="98" column="46" />
         <mark key="^" line="89" column="44" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1588928431473">
-        <mark key="[" line="80" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1588931201520">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="89" column="5" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/commands/CreditCardController.php" timestamp="1588928511913">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/commands/CreditCardController.php" timestamp="1588931625339">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -177,9 +178,6 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/db/migrations/20200507102757_add_reviewer_id_to_trip_item.php" timestamp="1588927967257" />
     </filemarks>
     <jumps>
-      <jump line="32" column="1" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/rules/AdvanceBookingRuleResult.php" />
-      <jump line="47" column="5" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/policySet/flight/FlightPolicyCriterionMatcher.php" />
-      <jump line="461" column="55" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/FlightItineraryFactoryTest.php" />
       <jump line="12" column="16" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
       <jump line="11" column="27" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/resources/TripDetailResource.php" />
       <jump line="119" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" />
@@ -277,6 +275,9 @@
       <jump line="89" column="43" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiStorages/CreditCardStorage.php" />
       <jump line="23" column="47" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/resources/CreditCardStatusResource.php" />
       <jump line="21" column="18" filename="$USER_HOME$/TravelSkope/source/Navisteps/.env" />
+      <jump line="59" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" />
+      <jump line="89" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
