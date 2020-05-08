@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588911017834">
+      <file name="/Dummy.txt" timestamp="1588914824977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,8 +104,11 @@
         <mark key="]" line="31" column="75" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/deploy/crontab" timestamp="1588905907044">
-        <mark key="[" line="2" column="47" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/deploy/crontab" timestamp="1588913774160">
+        <mark key="[" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/api/app/manager/UserCreditCardCest.php" timestamp="1588913514684">
+        <mark key="[" line="65" column="51" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/storages/yiiStorages/TripApprovalStateStorageTest.php" timestamp="1588843647476">
         <mark key="'" line="49" column="21" />
@@ -114,23 +117,40 @@
         <mark key="^" line="146" column="65" />
         <mark key="." line="147" column="39" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" timestamp="1588910943368">
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/CreditCardController.php" timestamp="1588914953999">
+        <mark key="[" line="92" column="51" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="85" column="65" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" timestamp="1588913977348">
+        <mark key="'" line="1059" column="21" />
         <mark key="[" line="1085" column="33" />
         <mark key="]" line="1085" column="33" />
         <mark key="." line="1085" column="33" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/enums/CreditCardTokenStatus.php" timestamp="1588838332299">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/enums/CreditCardTokenStatus.php" timestamp="1588913423741">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/.gitlab-ci.yml" timestamp="1588913573306" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/GroupController.php" timestamp="1588914178412">
+        <mark key="'" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripItemReplaceRelStorage.php" timestamp="1588829640058">
         <mark key="[" line="8" column="68" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiStorages/CreditCardStorage.php" timestamp="1588845794847">
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="42" />
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiStorages/CreditCardStorage.php" timestamp="1588914727565">
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="62" />
+        <mark key="." line="19" column="61" />
+        <mark key="^" line="19" column="62" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1588914754338">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/commands/CreditCardController.php" timestamp="1588845999266">
         <mark key="'" line="15" column="0" />
@@ -140,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
-      <jump line="139" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
       <jump line="67" column="50" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
       <jump line="140" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
       <jump line="32" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
@@ -240,45 +258,47 @@
       <jump line="9" column="6" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/CreditCard.php" />
       <jump line="12" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/commands/CreditCardController.php" />
       <jump line="42" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/CreditCard.php" />
+      <jump line="1059" column="21" filename="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" />
+      <jump line="27" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/GroupController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Show</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJJ2ZpcnN0RGF0YVBvc3RVcmwnID0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Show</text>
+        <text>WAITING</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlyZXR1cm4gQ3JlZGl0Q2FyZDo6ZmluZCgpLT53aGVyZShbJ3VzZXJJZCcgPT4gJHVzZXJJZCwgJ3Rva2VuU3RhdHVzJyA9PiAkdG9rZW5TdGF0dXNdKS0+YWxsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQkJJ2ZpcnN0RGF0YVBvc3RVcmwnID0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>Add update token status function</text>
+        <text encoding="base64">CQkvLyBUT0RPIHRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Add api of getting status of credit card</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFRPRE8g6Yed5bCN5aSq5LmF5rKS5Zue5L6G55qEIHRva2VuLCDovYnmiJAgZmFpbGVkLCDnlKggY3JlYXRlIHRpbWUg55W25pmC6ZaT5Yik5pa35Z+65rqW5aW95LqGCg==</text>
+        <text>Add api of getting status of credit card</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIOWboOeCuiBjcmVkaXQgY2FyZCDnlJ/lpb3kuYvlvozlsLHmmK/pnIDopoHmnIkgdG9rZW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBjaGVjayBjcmVhdGUgdGltZSwg6LaF6YGOIDMgbWluIOWwseiuiiBmYWlsZWQK</text>
-      </register>
-      <register name="7" type="2">
         <text>Add update token status function</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CS8vIFRPRE8g6Yed5bCN5aSq5LmF5rKS5Zue5L6G55qEIHRva2VuLCDovYnmiJAgZmFpbGVkLCDnlKggY3JlYXRlIHRpbWUg55W25pmC6ZaT5Yik5pa35Z+65rqW5aW95LqGCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBoYW5kbGUg5o6I5qyK5aSx5pWX55qE54uA5rOBCg==</text>
+        <text encoding="base64">CS8vIOWboOeCuiBjcmVkaXQgY2FyZCDnlJ/lpb3kuYvlvozlsLHmmK/pnIDopoHmnIkgdG9rZW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
