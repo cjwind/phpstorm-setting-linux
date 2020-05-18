@@ -104,13 +104,6 @@
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/payment/firstData/connect/FirstDataRequestGeneratorFactory.php" timestamp="1589781727937">
         <mark key="[" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiStorages/CreditCardStorage.php" timestamp="1588928316089">
-        <mark key="'" line="89" column="43" />
-        <mark key="[" line="98" column="46" />
-        <mark key="]" line="98" column="46" />
-        <mark key="." line="98" column="46" />
-        <mark key="^" line="89" column="44" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1589785812486">
         <mark key="[" line="136" column="0" />
       </file>
@@ -121,7 +114,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="91" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589786361752">
+      <file name="/Dummy.txt" timestamp="1589792028907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
