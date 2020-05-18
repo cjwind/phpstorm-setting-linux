@@ -90,17 +90,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/Payment.php" timestamp="1589793210066">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="112" column="21" />
+      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1589784999542">
         <mark key="[" line="37" column="51" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/payment/PaymentEventBindingBootstrap.php" timestamp="1589783360975" />
-      <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/resources/CreditCardStatusResource.php" timestamp="1588928737811">
-        <mark key="'" line="23" column="47" />
-        <mark key="[" line="23" column="56" />
-        <mark key="]" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="56" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/Navisteps/backend/utb/payment/firstData/connect/FirstDataRequestGeneratorFactory.php" timestamp="1589781727937">
         <mark key="[" line="31" column="33" />
       </file>
@@ -114,7 +114,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="91" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589792028907">
+      <file name="/Dummy.txt" timestamp="1589793012654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -157,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="16" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/policySet/flight/rules/AdvanceBookingRuleTest.php" />
       <jump line="11" column="27" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/resources/TripDetailResource.php" />
       <jump line="119" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" />
       <jump line="5677" column="22" filename="$USER_HOME$/TravelSkope/source/Navisteps/openapi/openapi.yaml" />
@@ -257,14 +256,13 @@
       <jump line="59" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" />
       <jump line="89" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" />
       <jump line="14" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/controllers/app/FirstDataController.php" />
+      <jump line="77" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/Payment.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Makes ipgTransactionId in transactionFirstData nullable
-
-There's no ipgTransactionId when transaction failed</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgaXNDYW5jZWxlZCgpIG1ldGhvZC4K</text>
       </register>
       <register name="-" type="4">
         <text>status</text>
@@ -273,33 +271,31 @@ There's no ipgTransactionId when transaction failed</text>
         <text encoding="base64">CQkkdGhpcy0+dGFibGUoJ3RyYW5zYWN0aW9uRmlyc3REYXRhJykK</text>
       </register>
       <register name="1" type="2">
-        <text>Makes ipgTransactionId in transactionFirstData nullable
-
-There's no ipgTransactionId when transaction failed</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgaXNDYW5jZWxlZCgpIG1ldGhvZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLT4K</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgaXNFeHBpcmVkKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+c3RhdHVzPT1zZWxmOjpTVEFUVVNfCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hhbmdlIE1ldGhvZC4KICAgICAqCiAgICAgKiBXcml0ZSB5b3VyIHJldmVyc2libGUgbWlncmF0aW9ucyB1c2luZyB0aGlzIG1ldGhvZC4KICAgICAqCiAgICAgKiBNb3JlIGluZm9ybWF0aW9uIG9uIHdyaXRpbmcgbWlncmF0aW9ucyBpcyBhdmFpbGFibGUgaGVyZToKICAgICAqIGh0dHA6Ly9kb2NzLnBoaW54Lm9yZy9lbi9sYXRlc3QvbWlncmF0aW9ucy5odG1sI3RoZS1hYnN0cmFjdG1pZ3JhdGlvbi1jbGFzcwogICAgICoKICAgICAqIFRoZSBmb2xsb3dpbmcgY29tbWFuZHMgY2FuIGJlIHVzZWQgaW4gdGhpcyBtZXRob2QgYW5kIFBoaW54IHdpbGwKICAgICAqIGF1dG9tYXRpY2FsbHkgcmV2ZXJzZSB0aGVtIHdoZW4gcm9sbGluZyBiYWNrOgogICAgICoKICAgICAqICAgIGNyZWF0ZVRhYmxlCiAgICAgKiAgICByZW5hbWVUYWJsZQogICAgICogICAgYWRkQ29sdW1uCiAgICAgKiAgICBhZGRDdXN0b21Db2x1bW4KICAgICAqICAgIHJlbmFtZUNvbHVtbgogICAgICogICAgYWRkSW5kZXgKICAgICAqICAgIGFkZEZvcmVpZ25LZXkKICAgICAqCiAgICAgKiBBbnkgb3RoZXIgZGVzdHJ1Y3RpdmUgY2hhbmdlcyB3aWxsIHJlc3VsdCBpbiBhbiBlcnJvciB3aGVuIHRyeWluZyB0bwogICAgICogcm9sbGJhY2sgdGhlIG1pZ3JhdGlvbi4KICAgICAqCiAgICAgKiBSZW1lbWJlciB0byBjYWxsICJjcmVhdGUoKSIgb3IgInVwZGF0ZSgpIiBhbmQgTk9UICJzYXZlKCkiIHdoZW4gd29ya2luZwogICAgICogd2l0aCB0aGUgVGFibGUgY2xhc3MuCiAgICAgKi8K</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgaXNGYWlsZWQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hhbmdlIE1ldGhvZC4KICAgICAqCiAgICAgKiBXcml0ZSB5b3VyIHJldmVyc2libGUgbWlncmF0aW9ucyB1c2luZyB0aGlzIG1ldGhvZC4KICAgICAqCiAgICAgKiBNb3JlIGluZm9ybWF0aW9uIG9uIHdyaXRpbmcgbWlncmF0aW9ucyBpcyBhdmFpbGFibGUgaGVyZToKICAgICAqIGh0dHA6Ly9kb2NzLnBoaW54Lm9yZy9lbi9sYXRlc3QvbWlncmF0aW9ucy5odG1sI3RoZS1hYnN0cmFjdG1pZ3JhdGlvbi1jbGFzcwogICAgICoKICAgICAqIFRoZSBmb2xsb3dpbmcgY29tbWFuZHMgY2FuIGJlIHVzZWQgaW4gdGhpcyBtZXRob2QgYW5kIFBoaW54IHdpbGwKICAgICAqIGF1dG9tYXRpY2FsbHkgcmV2ZXJzZSB0aGVtIHdoZW4gcm9sbGluZyBiYWNrOgogICAgICoKICAgICAqICAgIGNyZWF0ZVRhYmxlCiAgICAgKiAgICByZW5hbWVUYWJsZQogICAgICogICAgYWRkQ29sdW1uCiAgICAgKiAgICBhZGRDdXN0b21Db2x1bW4KICAgICAqICAgIHJlbmFtZUNvbHVtbgogICAgICogICAgYWRkSW5kZXgKICAgICAqICAgIGFkZEZvcmVpZ25LZXkKICAgICAqCiAgICAgKiBBbnkgb3RoZXIgZGVzdHJ1Y3RpdmUgY2hhbmdlcyB3aWxsIHJlc3VsdCBpbiBhbiBlcnJvciB3aGVuIHRyeWluZyB0bwogICAgICogcm9sbGJhY2sgdGhlIG1pZ3JhdGlvbi4KICAgICAqCiAgICAgKiBSZW1lbWJlciB0byBjYWxsICJjcmVhdGUoKSIgb3IgInVwZGF0ZSgpIiBhbmQgTk9UICJzYXZlKCkiIHdoZW4gd29ya2luZwogICAgICogd2l0aCB0aGUgVGFibGUgY2xhc3MuCiAgICAgKi8K</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgaXNQYWlkKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="6" type="2">
-        <text>Remove non-existed attribute's rule</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgaXNQYXlpbmcoKSBtZXRob2QuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgaXNJbml0KCkgbWV0aG9kLgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHBvc3Q6CiAgICAgIHRhZ3M6CiAgICAgICAgLSBUT0RPCiAgICAgICAgIyAtIGFwcC9tYW5hZ2VyL2NyZWRpdC1jYXJkCiAgICAgIHN1bW1hcnk6IENyZWF0ZSB1c2VyIGNyZWRpdCBjYXJkCiAgICAgIHJlcXVlc3RCb2R5OgogICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICBhcHBsaWNhdGlvbi9qc29uOgogICAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9zY2hlbWFzL0NyZWRpdENhcmRGb3JtJwogICAgICByZXNwb25zZXM6CiAgICAgICAgMjAwOgogICAgICAgICAgZGVzY3JpcHRpb246IE9LCiAgICAgICAgICBjb250ZW50OgogICAgICAgICAgICBhcHBsaWNhdGlvbi9qc29uOgogICAgICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgICAgIHR5cGU6IG9iamVjdAogICAgICAgICAgICAgICAgcHJvcGVydGllczoKICAgICAgICAgICAgICAgICAgcGFyYW1zOgogICAgICAgICAgICAgICAgICAgIHR5cGU6IG9iamVjdAogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBQb3N0IGRhdGEgc2hvdWxkIHNlbmQgdG8gRmlydCBEYXRhCiAgICAgICAgICAgICAgICAgICAgYWRkaXRpb25hbFByb3BlcnRpZXM6IHRydWUKICAgICAgICA0MDA6CiAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3Jlc3BvbnNlcy9CYWRSZXF1ZXN0Jw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0RXJyb3JNc2coKSBtZXRob2QuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQknUE9TVCcgPT4gJ2FwcC9tYW5hZ2VyL3VzZXItY3JlZGl0LWNhcmQvY3JlYXRlJywK</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0U3RhdHVzKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
