@@ -20,9 +20,12 @@
         <entry>action EditorDuplicateLines</entry>
         <entry>w</entry>
         <entry>action GotoPreviousError</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action IntroduceField</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
+        <entry>action IntroduceParameter</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,15 +134,17 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2Test.php" timestamp="1591940544884">
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="43" column="32" />
+      <file name="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2Test.php" timestamp="1591940845972">
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="52" column="21" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="21" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/utb/payment/nccc/storage/yiiActiveRecords/TransactionNcccEcpg.php" timestamp="1591935886474" />
       <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/WirecardCreditCardTransacionType.php" timestamp="1591934660540">
         <mark key="[" line="6" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591936589058">
+      <file name="/Dummy.txt" timestamp="1591940577297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -155,7 +160,7 @@
         <mark key="." line="36" column="42" />
         <mark key="^" line="36" column="43" />
       </file>
-      <file name="/fragment.php" timestamp="1591425405843">
+      <file name="/fragment.php" timestamp="1591940837294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/TransactionWirecardCreditCardWpp2StorageInterface.php" timestamp="1591936521694">
@@ -205,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="57" column="46" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="470" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="60" column="60" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
@@ -305,6 +309,7 @@
       <jump line="49" column="5" filename="$USER_HOME$/.ideavimrc" />
       <jump line="12" column="20" filename="$USER_HOME$/TravelSkope/source/utb/payment/storage/IPaymentStorage.php" />
       <jump line="26" column="21" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2Test.php" />
+      <jump line="33" column="24" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2Test.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,11 +317,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">bm1hcCA8Uy1VcD4gdjxVcD4Kbm1hcCA8Uy1Eb3duPiB2PERvd24+Cm5tYXAgPFMtTGVmdD4gdjxMZWZ0PgpubWFwIDxTLVJpZ2h0PiB2PFJpZ2h0PgpubWFwIDxTLUhvbWU+IHY8SG9tZT4Kbm1hcCA8Uy1FbmQ+IHY8RW5kPgoKdm1hcCA8Uy1VcD4gPFVwPgp2bWFwIDxTLURvd24+IDxEb3duPgp2bWFwIDxTLUxlZnQ+IDxMZWZ0Pgp2bWFwIDxTLVJpZ2h0PiA8UmlnaHQ+CnZtYXAgPFMtSG9tZT4gPEhvbWU+CnZtYXAgPFMtRW5kPiA8RW5kPgoKaW1hcCA8Uy1VcD4gPEVzYz52PFVwPgppbWFwIDxTLURvd24+IDxFc2M+djxEb3duPgppbWFwIDxTLUxlZnQ+IDxFc2M+djxMZWZ0PgppbWFwIDxTLVJpZ2h0PiA8RXNjPnY8UmlnaHQ+CmltYXAgPFMtSG9tZT4gPEVzYz52PEhvbWU+CmltYXAgPFMtRW5kPiA8RXNjPnY8RW5kPgo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OnNldFVwKCk7Cg==</text>
+      <register name="*" type="4">
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text>char</text>
@@ -355,7 +360,7 @@
     }</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</text>
+        <text>action Rerun</text>
       </register>
     </registers>
   </component>
