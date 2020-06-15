@@ -16,6 +16,8 @@
         <entry>decimal</entry>
         <entry>,m</entry>
         <entry>tran</entry>
+        <entry>GoToD</entry>
+        <entry>app\/orders</entry>
       </history-search>
       <history-cmd>
         <entry>$</entry>
@@ -26,17 +28,17 @@
         <entry>action GotoDeclaration</entry>
         <entry>action IntroduceField</entry>
         <entry encoding="base64">c291cmNlIC9ob21lL2Nqdy8uaWRlYXZpbXJjIA==</entry>
-        <entry>action GotoNextError</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>q</entry>
         <entry>action EditorDuplicateLines</entry>
+        <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
+        <entry>action GotoNextError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,19 +123,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TravelSkope/source/utb/db/migrations/20200615070600_add_transaction_wirecard_credit_card_wpp2.php" timestamp="1592207013227">
-        <mark key="'" line="21" column="45" />
-        <mark key="[" line="84" column="25" />
-        <mark key="]" line="84" column="25" />
-        <mark key="^" line="84" column="56" />
-        <mark key="." line="84" column="25" />
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/utb/payment/wirecard/WirecardCreditCardWpp2.php" timestamp="1592213231042" />
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/utb/payment/wirecard/storage/yiiStorage/TransactionWirecardCreditCardWpp2Storage.php" timestamp="1592213254603" />
+      <file name="/a.dummy" timestamp="1592211911673">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/storage/yiiActiveRecord/TransactionWirecardCreditCardWpp2.php" timestamp="1592207749270">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/openapi/openapi.yaml" timestamp="1592212862935">
+        <mark key="[" line="537" column="24" />
       </file>
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/utb/payment/wirecard/storage/TransactionWirecardCreditCardWpp2StorageInterface.php" timestamp="1592213243687" />
       <file name="$USER_HOME$/.ideavimrc" timestamp="1592209279984">
         <mark key="'" line="90" column="6" />
         <mark key="[" line="38" column="0" />
@@ -141,18 +139,16 @@
         <mark key="^" line="39" column="70" />
         <mark key="." line="39" column="69" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2Test.php" timestamp="1592207237910">
+      <file name="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2Test.php" timestamp="1592211976329">
         <mark key="b" line="41" column="0" />
         <mark key="'" line="100" column="35" />
-        <mark key="[" line="66" column="17" />
-        <mark key="]" line="66" column="42" />
-        <mark key="^" line="66" column="42" />
-        <mark key="." line="66" column="41" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="119" column="34" />
+        <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/db/migrations/20191218041630_create_pricing.php" timestamp="1592205282901">
-        <mark key="'" line="19" column="31" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="27" />
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/controllers/app/OrderController.php" timestamp="1592213067720">
+        <mark key="'" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/wirecard/storage/yiiStorage/TransactionWirecardCreditCardWpp2StorageTest.php" timestamp="1592209536236">
         <mark key="j" line="13" column="0" />
@@ -161,28 +157,38 @@
         <mark key="." line="24" column="31" />
         <mark key="^" line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/payment/nccc/storage/yiiActiveRecords/TransactionNcccEcpg.php" timestamp="1592206921548">
-        <mark key="'" line="30" column="2" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="102" column="4" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/utb/test/php/tests/_data/dump.sql" timestamp="1592209767951">
         <mark key="'" line="2552" column="0" />
         <mark key="[" line="2501" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592209885693">
+      <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/WirecardCreditCardWpp2Payer.php" timestamp="1592212185862">
+        <mark key="[" line="18" column="73" />
+        <mark key="]" line="18" column="72" />
+        <mark key="^" line="18" column="72" />
+        <mark key="." line="18" column="71" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592212948347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1592209359313">
+      <file name="/fragment.php" timestamp="1592213310614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/WirecardCreditCardWpp2.php" timestamp="1592210606583">
-        <mark key="[" line="69" column="5" />
-        <mark key="]" line="55" column="18" />
-        <mark key="^" line="46" column="29" />
-        <mark key="." line="55" column="18" />
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/config/routes.php" timestamp="1592212776635">
+        <mark key="'" line="256" column="4" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="56" column="36" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/.env" timestamp="1592212730461">
+        <mark key="'" line="38" column="5" />
+      </file>
+      <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/WirecardCreditCardWpp2.php" timestamp="1592211664244">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/TravelSkope/source/utb/CHANGES.md" timestamp="1592209877235">
         <mark key="[" line="11" column="57" />
@@ -190,39 +196,19 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/test/php/codeception.yml" timestamp="1592209010411">
-        <mark key="'" line="19" column="8" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/storage/TransactionWirecardCreditCardWpp2StorageInterface.php" timestamp="1592207595401">
-        <mark key="[" line="7" column="24" />
-      </file>
       <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/storage/TransactionWirecardCreditCardWpp2DaoInterface.php" timestamp="1592209871137" />
-      <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/storage/yiiStorage/TransactionWirecardCreditCardWpp2Storage.php" timestamp="1592207655617">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="10" column="66" />
-        <mark key="^" line="10" column="66" />
-        <mark key="." line="10" column="65" />
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/config/container.php" timestamp="1592213207371">
+        <mark key="[" line="14" column="80" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2ApiTest.php" timestamp="1592207407063">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="49" />
-      </file>
-      <file name="$USER_HOME$/TravelSkope/source/utb/payment/wirecard/storage/TransactionWirecardCreditCardWpp2Interface.php" timestamp="1592207567129">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="9" />
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1592213397160">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="36" />
+        <mark key="^" line="37" column="36" />
+        <mark key="." line="37" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/storages/yiiStorages/TripApprovalStateStorageTest.php" />
-      <jump line="15" column="50" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/storages/yiiStorages/TripApprovalStateStorageTest.php" />
-      <jump line="114" column="21" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/storages/yiiStorages/TripApprovalStateStorageTest.php" />
-      <jump line="89" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/yiiStorages/TripItemStorage.php" />
-      <jump line="8" column="10" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/features/trip/storages/ITripItemStorage.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/forms/TripItemFlightFormTest.php" />
       <jump line="103" column="9" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/forms/TripItemFlightFormTest.php" />
       <jump line="22" column="20" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/forms/TripItemFlightFormTest.php" />
       <jump line="93" column="34" filename="$USER_HOME$/TravelSkope/source/Navisteps/backend/tests/unit/features/trip/forms/TripItemFlightFormTest.php" />
@@ -317,6 +303,12 @@
       <jump line="90" column="6" filename="$USER_HOME$/.ideavimrc" />
       <jump line="0" column="0" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/_data/dump.sql" />
       <jump line="2530" column="0" filename="$USER_HOME$/TravelSkope/source/utb/test/php/tests/_data/dump.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/controllers/app/PaymentController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/controllers/app/PaymentController.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/controllers/app/PaymentController.php" />
+      <jump line="253" column="4" filename="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/config/routes.php" />
+      <jump line="38" column="5" filename="$USER_HOME$/TravelSkope/source/DigitalTravel/.env" />
+      <jump line="12" column="4" filename="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/controllers/app/OrderController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,61 +322,55 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEF1dGhfU2hvdWxkQ3JlYXRlVHJhbnNhY3Rpb24oKSB7CgkJJHRoaXMtPmdpdmVuQW1vdW50KCdVU0QnLCAxMCk7CgkJJHRoaXMtPmdpdmVuUmVxdWVzdElkKCdmYWtlUmVxSWQnKTsKCgkJJHRoaXMtPnNob3VsZENyZWF0ZVRyYW5zYWN0aW9uKDEsICdwdXJjaGFzZScsICdmYWtlUmVxSWQnLCAnVVNEJywgMTApOwoKCQkkdGhpcy0+d2hlbkF1dGgoKTsKCgkJJHRoaXMtPmFzc2VydEVxdWFscygnaHR0cHM6Ly9mYWtlUmVkaXJlY3QudXJsLmNvbScsICR0aGlzLT5yZXQpOwoJfQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>$th</text>
+      <register name="*" type="2">
+        <text encoding="base64">CQkkdGhpcy0+d2lyZWNhcmRDaGFubmVsLT5hdXRoKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>$th</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>tran</text>
+        <text>app\/orders</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLT5hZGRDb2x1bW4oJ2NyZWF0ZVRpbWUnLCAnaW50ZWdlcicsIFsnbnVsbCcgPT4gZmFsc2UsICdsaW1pdCcgPT4gTXlzcWxBZGFwdGVyOjpJTlRfUkVHVUxBUl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YXNzZXJ0RXF1YWxzKCwgKTsK</text>
+        <text encoding="base64">CQkkdGhpcy0+d2lyZWNhcmRDaGFubmVsLT5hdXRoKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0SWQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">CQkkdGhpcy0+d2lyZWNhcmRDaGFubmVsID0gJHdpcmVjYXJkQ2hhbm5lbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlUcmFuc2FjdGlvbldpcmVjYXJkQ3JlZGl0Q2FyZFdwcDI6OmZpbmQoKS0+d2hlcmUoW10pCg==</text>
+        <text encoding="base64">CQkkY2hhbm5lbCA9IG5ldyBXaXJlY2FyZENyZWRpdENhcmRXcHAyKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Skip test whose api spec changed</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQkJWwoJCQkJJ2NsYXNzJyA9PiBBdHRyaWJ1dGVzQmVoYXZpb3I6OmNsYXNzLAoJCQkJJ3ByZXNlcnZlTm9uRW1wdHlWYWx1ZXMnID0+IHRydWUsCgkJCQknYXR0cmlidXRlcycgPT4gWwoJCQkJCSdpZCcgPT4gW0FjdGl2ZVJlY29yZDo6RVZFTlRfQkVGT1JFX0lOU0VSVCA9PiBbJHRoaXMsICdnZW5lcmF0ZUlkJ11dLAoJCQkJCSdhdXRoU3RhdHVzJyA9PiBbQWN0aXZlUmVjb3JkOjpFVkVOVF9CRUZPUkVfSU5TRVJUID0+IHNlbGY6OkFVVEhfU1RBVFVTX0lOSVRdLAoJCQkJCSdiYW5rUGF5U3RhdHVzJyA9PiBbQWN0aXZlUmVjb3JkOjpFVkVOVF9CRUZPUkVfSU5TRVJUID0+IHNlbGY6OkJBTktfUEFZX1NUQVRVU19JTklUXSwKCQkJCQkncmVmdW5kU3RhdHVzJyA9PiBbQWN0aXZlUmVjb3JkOjpFVkVOVF9CRUZPUkVfSU5TRVJUID0+IHNlbGY6OlJFRlVORF9TVEFUVVNfSU5JVF0sCgkJCQldLAoJCQldLA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQknR0VUJyA9PiB0cnVlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Move</text>
       </register>
       <register name="7" type="2">
-        <text>// transaction AR 跟 storage 到底要在哪裡好呢？ 其他金流都放在 utb, 但 FirstData 放在了 project
-// 我是覺得以 transaction 來說, 好像還算可以放 utb, 主要是它跟 third party 本身息息相關
-// 但 payment 放 utb 就不見得好了, 因為 payment 開始會跟 order 有關, 相對容易受到不同 project 需求影響而變動
-// 也可以說 utb 在 transaction 部份, 是提供一種 default 實作, 而它是可以被換掉的
-// 我覺得 utb 內部又分好幾塊, 一是核心邏輯, 二是 third party api, 三是核心邏輯所需的 data access (db)
-// 核心邏輯不該跟 db 綁在一起, 但核心邏輯所需的 data, 以目前 utb 就是整大包來說, 也就是先放在 utb 了
-// 那, 初步決定, wirecard transaction AR 跟 storage 繼續放 utb, 但 payment 要放到 project</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQknaWRlbnRpdHknID0+ICdlbmFibGUnLAo=</text>
+        <text encoding="base64">CQlwYXJlbnQ6OnNldFVwKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIFRPRE8gZ2VuIHRyYW5zIGlkCg==</text>
+        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action GotoNextError</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tran</last-search>
+      <last-search>app\/orders</last-search>
       <last-offset />
-      <last-pattern>tran</last-pattern>
+      <last-pattern>app\/orders</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
