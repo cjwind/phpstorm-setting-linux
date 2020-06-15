@@ -29,8 +29,6 @@
         <entry>action IntroduceField</entry>
         <entry encoding="base64">c291cmNlIC9ob21lL2Nqdy8uaWRlYXZpbXJjIA==</entry>
         <entry>action AceAction</entry>
-        <entry>w</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
@@ -39,6 +37,9 @@
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
         <entry>action GotoNextError</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+        <entry>action GotoPreviousError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -200,12 +201,12 @@
       <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/config/container.php" timestamp="1592213207371">
         <mark key="[" line="14" column="80" />
       </file>
-      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1592213397160">
+      <file name="$USER_HOME$/TravelSkope/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1592214713661">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="37" column="36" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="37" column="36" />
-        <mark key="." line="37" column="35" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -323,7 +324,7 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEF1dGhfU2hvdWxkQ3JlYXRlVHJhbnNhY3Rpb24oKSB7CgkJJHRoaXMtPmdpdmVuQW1vdW50KCdVU0QnLCAxMCk7CgkJJHRoaXMtPmdpdmVuUmVxdWVzdElkKCdmYWtlUmVxSWQnKTsKCgkJJHRoaXMtPnNob3VsZENyZWF0ZVRyYW5zYWN0aW9uKDEsICdwdXJjaGFzZScsICdmYWtlUmVxSWQnLCAnVVNEJywgMTApOwoKCQkkdGhpcy0+d2hlbkF1dGgoKTsKCgkJJHRoaXMtPmFzc2VydEVxdWFscygnaHR0cHM6Ly9mYWtlUmVkaXJlY3QudXJsLmNvbScsICR0aGlzLT5yZXQpOwoJfQo=</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">CQkkdGhpcy0+d2lyZWNhcmRDaGFubmVsLT5hdXRoKCkK</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -335,34 +336,34 @@
         <text encoding="base64">CQkJLT5hZGRDb2x1bW4oJ2NyZWF0ZVRpbWUnLCAnaW50ZWdlcicsIFsnbnVsbCcgPT4gZmFsc2UsICdsaW1pdCcgPT4gTXlzcWxBZGFwdGVyOjpJTlRfUkVHVUxBUl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+d2lyZWNhcmRDaGFubmVsLT5hdXRoKCkK</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdGhpcy0+d2lyZWNhcmRDaGFubmVsID0gJHdpcmVjYXJkQ2hhbm5lbDsK</text>
+        <text encoding="base64">CSAqIEB2YXIgV2lyZWNhcmRDcmVkaXRDYXJkV3BwMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkY2hhbm5lbCA9IG5ldyBXaXJlY2FyZENyZWRpdENhcmRXcHAyKCk7Cg==</text>
+        <text encoding="base64">CS8qKgo=</text>
       </register>
       <register name="4" type="2">
-        <text>Skip test whose api spec changed</text>
+        <text encoding="base64">CXByaXZhdGUgJHdpcmVjYXJkQ2hhbm5lbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQknR0VUJyA9PiB0cnVlLAo=</text>
+        <text encoding="base64">CQkkdGhpcy0+d2lyZWNhcmRDaGFubmVsLT5hdXRoKCkK</text>
       </register>
       <register name="6" type="2">
-        <text>Move</text>
+        <text encoding="base64">CQkkdGhpcy0+d2lyZWNhcmRDaGFubmVsID0gJHdpcmVjYXJkQ2hhbm5lbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkkY2hhbm5lbCA9IG5ldyBXaXJlY2FyZENyZWRpdENhcmRXcHAyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OnNldFVwKCk7Cg==</text>
+        <text>Skip test whose api spec changed</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpIHsK</text>
+        <text encoding="base64">CQknR0VUJyA9PiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoNextError</text>
+        <text>action GotoPreviousError</text>
       </register>
     </registers>
   </component>
